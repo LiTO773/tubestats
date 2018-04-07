@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:05.370" style="s2">when you think<span style="s3"> of</span><span style="s4"> v8-powered</span><span style="s3"> rear-wheel</span></p>
+<p begin="00:00:02.610" end="00:00:07.410" style="s2"><span style="s3">drive full-size luxury sedans with all</span></p>
+<p begin="00:00:05.370" end="00:00:10.469" style="s2">the amenities<span style="s4"> you</span> probably think of<span style="s4"> the</span></p>
+<p begin="00:00:07.410" end="00:00:13.170" style="s2">mercedes-benz s-class<span style="s3"> or</span> the<span style="s3"> Audi</span> a8<span style="s3"> or</span></p>
+<p begin="00:00:10.469" end="00:00:16.890" style="s2">maybe the<span style="s3"> Lexus</span> LS or the<span style="s4"> BMW</span><span style="s3"> 7-series</span></p>
+<p begin="00:00:13.170" end="00:00:21.600" style="s2"><span style="s3">you</span> don&#39;t think of Kia<span style="s3"> and</span> yet this<span style="s3"> is</span><span style="s4"> a</span></p>
+<p begin="00:00:16.890" end="00:00:24.330" style="s2">brand new<span style="s3"> Kia</span> k900 which is a<span style="s3"> v8</span> powered</p>
+<p begin="00:00:21.600" end="00:00:28.470" style="s2">rear-wheel drive full-size luxury sedan</p>
+<p begin="00:00:24.330" end="00:00:35.600" style="s2"><span style="s3">with</span> all the amenities and a $60,000</p>
+<p begin="00:00:28.470" end="00:00:38.430" style="s2">price tag<span style="s3"> this is a $60,000 luxury Kia</span></p>
+<p begin="00:00:35.600" end="00:00:40.500" style="s2"><span style="s3">now</span> that may<span style="s4"> not</span> seem<span style="s4"> so</span><span style="s3"> strange</span> to you</p>
+<p begin="00:00:38.430" end="00:00:43.190" style="s2">at first<span style="s4"> because</span> I recently<span style="s3"> reviewed</span> the</p>
+<p begin="00:00:40.500" end="00:00:46.200" style="s2">new Kia<span style="s3"> stinger&#39;</span> GT and that was a</p>
+<p begin="00:00:43.190" end="00:00:48.480" style="s2">$50,000 Kia but this is different<span style="s4"> for</span></p>
+<p begin="00:00:46.200" end="00:00:51.239" style="s2">two big reasons<span style="s4"> number one</span><span style="s3"> the</span><span style="s4"> Stinger</span></p>
+<p begin="00:00:48.480" end="00:00:52.949" style="s2">GT was a sporty car aimed at young</p>
+<p begin="00:00:51.239" end="00:00:55.199" style="s2">people<span style="s3"> and they&#39;re way more</span><span style="s4"> likely</span><span style="s3"> to</span></p>
+<p begin="00:00:52.949" end="00:00:58.199" style="s2">change their tastes and<span style="s3"> try</span> a<span style="s3"> new</span><span style="s4"> brand</span></p>
+<p begin="00:00:55.199" end="00:01:00.629" style="s2">than older people<span style="s4"> the</span> k900 is a luxury</p>
+<p begin="00:00:58.199" end="00:01:02.699" style="s2">car aimed at the kind of people<span style="s3"> who</span> pay</p>
+<p begin="00:01:00.629" end="00:01:04.439" style="s2">with a personal check<span style="s3"> at</span> the<span style="s3"> grocery</span></p>
+<p begin="00:01:02.699" end="00:01:06.000" style="s2">store<span style="s4"> the other reason</span><span style="s3"> this</span> is different</p>
+<p begin="00:01:04.439" end="00:01:10.500" style="s2">from the<span style="s3"> Stinger</span> is that this<span style="s3"> is</span> a</p>
+<p begin="00:01:06.000" end="00:01:13.260" style="s2"><span style="s4">luxury</span> car luxury upscale high-end<span style="s4"> Sport</span></p>
+<p begin="00:01:10.500" end="00:01:14.909" style="s2"><span style="s3">is</span> not part of the<span style="s4"> equation here</span><span style="s3"> when</span> I</p>
+<p begin="00:01:13.260" end="00:01:17.460" style="s2"><span style="s3">think</span> of Kia<span style="s4"> I</span> think of those</p>
+<p begin="00:01:14.909" end="00:01:18.530" style="s2">commercials where hamsters are trying to</p>
+<p begin="00:01:17.460" end="00:01:23.159" style="s2">sell me a car</p>
+<p begin="00:01:18.530" end="00:01:25.610" style="s2"><span style="s3">hamsters</span><span style="s4"> this</span> is a<span style="s4"> $60,000</span><span style="s3"> luxury</span> car</p>
+<p begin="00:01:23.159" end="00:01:29.009" style="s2">from<span style="s4"> a</span> brand<span style="s4"> who&#39;s</span><span style="s3"> best</span><span style="s4"> known</span></p>
+<p begin="00:01:25.610" end="00:01:31.079" style="s2"><span style="s3">spokesperson</span> is a rodent<span style="s3"> not</span></p>
+<p begin="00:01:29.009" end="00:01:33.630" style="s2">surprisingly this hasn&#39;t translated<span style="s3"> into</span></p>
+<p begin="00:01:31.079" end="00:01:36.990" style="s2">strong sales<span style="s3"> in</span> the United States in</p>
+<p begin="00:01:33.630" end="00:01:39.509" style="s2">2017 Kia sold about 38 of these per</p>
+<p begin="00:01:36.990" end="00:01:43.290" style="s2">month<span style="s3"> in</span> the entire country</p>
+<p begin="00:01:39.509" end="00:01:46.729" style="s2">by comparison<span style="s4"> mercedes</span> sold about<span style="s4"> 1,500</span></p>
+<p begin="00:01:43.290" end="00:01:50.640" style="s2">s-class sedans per month<span style="s3"> in</span><span style="s4"> Canada</span> in</p>
+<p begin="00:01:46.729" end="00:01:54.360" style="s2">2017 Kia sold seven of<span style="s3"> these</span> not per</p>
+<p begin="00:01:50.640" end="00:01:56.729" style="s2">month<span style="s3"> seven</span> total<span style="s4"> in</span> the entire country</p>
+<p begin="00:01:54.360" end="00:01:58.530" style="s2"><span style="s4">if</span> you<span style="s3"> get</span> one<span style="s4"> of</span> these<span style="s3"> in</span> Canada<span style="s3"> you</span></p>
+<p begin="00:01:56.729" end="00:02:00.570" style="s2">show up to a car show<span style="s3"> and you say you</span></p>
+<p begin="00:01:58.530" end="00:02:02.850" style="s2"><span style="s4">get</span> a<span style="s3"> Ferrari</span> f40<span style="s3"> yeah</span> well I<span style="s3"> get</span></p>
+<p begin="00:02:00.570" end="00:02:06.600" style="s2">something<span style="s4"> even</span> rarer<span style="s4"> a</span> Canadian market</p>
+<p begin="00:02:02.850" end="00:02:09.209" style="s2">Kia k900<span style="s4"> anyway</span><span style="s3"> rare</span> weird<span style="s3"> and</span> luxury</p>
+<p begin="00:02:06.600" end="00:02:11.039" style="s2">car seems right up my alley and<span style="s3"> so</span> I</p>
+<p begin="00:02:09.209" end="00:02:13.670" style="s2">wanted<span style="s3"> to</span> see what all the<span style="s4"> fuss</span> was</p>
+<p begin="00:02:11.039" end="00:02:15.709" style="s2">about<span style="s3"> or</span> at<span style="s3"> least</span> with the limited</p>
+<p begin="00:02:13.670" end="00:02:17.240" style="s2">was about so<span style="s3"> today</span> I&#39;m<span style="s3"> going to show you</span></p>
+<p begin="00:02:15.709" end="00:02:19.400" style="s2">all of<span style="s3"> the</span> interesting quirks and</p>
+<p begin="00:02:17.240" end="00:02:21.140" style="s2">features<span style="s4"> of</span> the k900<span style="s4"> and</span> then I&#39;m<span style="s4"> gonna</span></p>
+<p begin="00:02:19.400" end="00:02:23.420" style="s2">drive it and then I&#39;m gonna give it a</p>
+<p begin="00:02:21.140" end="00:02:26.180" style="s2">dug score<span style="s4"> and</span> I should mention<span style="s3"> I</span> rented</p>
+<p begin="00:02:23.420" end="00:02:28.130" style="s2">this<span style="s3"> k900</span> here in Dallas at dallas-fort</p>
+<p begin="00:02:26.180" end="00:02:30.110" style="s2">Worth International Airport using<span style="s4"> Toro</span></p>
+<p begin="00:02:28.130" end="00:02:32.060" style="s2"><span style="s3">which</span> is this<span style="s4"> service</span> that<span style="s4"> lets</span> you rent</p>
+<p begin="00:02:30.110" end="00:02:34.069" style="s2">other peoples interesting and cool cars</p>
+<p begin="00:02:32.060" end="00:02:36.470" style="s2"><span style="s3">instead</span> of the same<span style="s3"> normal</span> boring</p>
+<p begin="00:02:34.069" end="00:02:38.150" style="s2"><span style="s4">airport</span> rental cars<span style="s3"> you</span> can sign up for</p>
+<p begin="00:02:36.470" end="00:02:41.000" style="s2"><span style="s3">Toro</span> using the link in the description</p>
+<p begin="00:02:38.150" end="00:02:42.500" style="s2"><span style="s3">below</span> and get $25 off<span style="s4"> your first rental</span></p>
+<p begin="00:02:41.000" end="00:02:44.120" style="s2"><span style="s3">you</span> can also check<span style="s3"> out</span> the link in the</p>
+<p begin="00:02:42.500" end="00:02:48.519" style="s2">description below<span style="s4"> to</span> see Toros app</p>
+<p begin="00:02:44.120" end="00:02:48.519" style="s2">anyway now on to the<span style="s3"> corpse</span></p>
+<p begin="00:02:54.130" end="00:02:56.920" style="s2">for the first<span style="s3"> clerk of this car I&#39;m</span></p>
+<p begin="00:02:55.750" end="00:02:58.240" style="s2">gonna<span style="s3"> start with the name which I&#39;ve</span></p>
+<p begin="00:02:56.920" end="00:03:01.120" style="s2"><span style="s3">always found to be kind of</span> ridiculous</p>
+<p begin="00:02:58.240" end="00:03:03.760" style="s2">Mercedes has the s550<span style="s3"> Lexus has the LS</span></p>
+<p begin="00:03:01.120" end="00:03:05.320" style="s2">500 and he looked at those<span style="s3"> and</span><span style="s4"> they</span> said</p>
+<p begin="00:03:03.760" end="00:03:08.890" style="s2">no no<span style="s3"> we</span><span style="s4"> can</span> do<span style="s3"> better than that</span><span style="s4"> we&#39;re</span></p>
+<p begin="00:03:05.320" end="00:03:11.920" style="s2">gonna call it the<span style="s3"> k900</span> forget the LS 500</p>
+<p begin="00:03:08.890" end="00:03:14.170" style="s2"><span style="s3">in the s550</span><span style="s4"> this</span> thing is<span style="s3"> 400</span><span style="s4"> and</span> better</p>
+<p begin="00:03:11.920" end="00:03:15.820" style="s2"><span style="s3">it&#39;s</span> like<span style="s3"> if</span> a child named the car my</p>
+<p begin="00:03:14.170" end="00:03:19.000" style="s2">name is Jimmy and<span style="s3"> this</span> is my<span style="s4"> card</span> it&#39;s</p>
+<p begin="00:03:15.820" end="00:03:22.120" style="s2"><span style="s4">the</span> Jimmy J 10,000<span style="s3"> also</span> I&#39;m<span style="s3"> sorry</span> to</p>
+<p begin="00:03:19.000" end="00:03:24.460" style="s2">harp on the name<span style="s3"> but doesn&#39;t</span><span style="s4"> k900</span></p>
+<p begin="00:03:22.120" end="00:03:26.170" style="s2">kind of sound<span style="s4"> like</span> a<span style="s3"> robotic</span> dog<span style="s4"> from</span></p>
+<p begin="00:03:24.460" end="00:03:28.660" style="s2"><span style="s3">the</span> future<span style="s4"> I</span> mean<span style="s3"> seriously</span> you<span style="s3"> get</span></p>
+<p begin="00:03:26.170" end="00:03:30.460" style="s2"><span style="s4">canine and</span><span style="s3"> this</span> is the<span style="s4"> canine hundred</span></p>
+<p begin="00:03:28.660" end="00:03:32.980" style="s2">it&#39;s like sir<span style="s4"> we</span> have<span style="s3"> developed</span> the</p>
+<p begin="00:03:30.460" end="00:03:35.710" style="s2">canine hundred it can sniff treats from</p>
+<p begin="00:03:32.980" end="00:03:37.780" style="s2"><span style="s3">a</span> thousand miles away<span style="s3"> and</span> it&#39;s also a</p>
+<p begin="00:03:35.710" end="00:03:39.910" style="s2">Kia<span style="s3"> next I&#39;m moving under the hood</span> I</p>
+<p begin="00:03:37.780" end="00:03:43.090" style="s2">mentioned before<span style="s4"> this</span> has a<span style="s3"> v8</span><span style="s4"> and</span></p>
+<p begin="00:03:39.910" end="00:03:46.210" style="s2">indeed it does they offer the<span style="s4"> k900 with</span></p>
+<p begin="00:03:43.090" end="00:03:50.350" style="s2">a v6<span style="s3"> but</span> this one has a 420 horsepower</p>
+<p begin="00:03:46.210" end="00:03:52.630" style="s2"><span style="s4">five</span><span style="s3"> liter naturally aspirated</span><span style="s4"> v8</span><span style="s3"> just</span></p>
+<p begin="00:03:50.350" end="00:03:54.160" style="s2">like a real full-size<span style="s3"> luxury</span> sedan</p>
+<p begin="00:03:52.630" end="00:03:56.140" style="s2"><span style="s3">that&#39;s</span> pretty impressive from<span style="s3"> Kia</span></p>
+<p begin="00:03:54.160" end="00:03:58.270" style="s2"><span style="s3">something</span> I like about<span style="s4"> the</span> v8 on the</p>
+<p begin="00:03:56.140" end="00:04:01.960" style="s2">plastic<span style="s3"> engine</span> cover<span style="s3"> above</span><span style="s4"> the engine</span></p>
+<p begin="00:03:58.270" end="00:04:03.670" style="s2"><span style="s3">kia</span> has<span style="s4"> eight</span> silver lines going<span style="s3"> out</span> for</p>
+<p begin="00:04:01.960" end="00:04:06.310" style="s2"><span style="s3">the middle of the engine</span><span style="s4"> just</span><span style="s3"> to</span> really</p>
+<p begin="00:04:03.670" end="00:04:08.110" style="s2"><span style="s3">drive</span><span style="s4"> home the point you</span> got a v8<span style="s4"> of</span></p>
+<p begin="00:04:06.310" end="00:04:10.240" style="s2">course nobody will ever notice<span style="s4"> that</span> but</p>
+<p begin="00:04:08.110" end="00:04:11.890" style="s2">they did it anyway<span style="s4"> something</span> else I like</p>
+<p begin="00:04:10.240" end="00:04:13.630" style="s2">under<span style="s3"> the</span><span style="s4"> hood</span> is this little<span style="s3"> warning</span></p>
+<p begin="00:04:11.890" end="00:04:15.550" style="s2">label warning you not<span style="s3"> to</span><span style="s4"> come in contact</span></p>
+<p begin="00:04:13.630" end="00:04:17.470" style="s2"><span style="s3">with</span> the fan with<span style="s4"> your</span> hand when the fan</p>
+<p begin="00:04:15.550" end="00:04:19.570" style="s2"><span style="s3">is</span> running<span style="s3"> take</span> a look this label the</p>
+<p begin="00:04:17.470" end="00:04:21.730" style="s2">person&#39;s fingers have actually broken</p>
+<p begin="00:04:19.570" end="00:04:24.610" style="s2"><span style="s3">off</span> in the warning label the fan is cut</p>
+<p begin="00:04:21.730" end="00:04:26.830" style="s2">off the fingers<span style="s3"> it&#39;s</span> a morbid<span style="s3"> warning</span></p>
+<p begin="00:04:24.610" end="00:04:28.660" style="s2">label I<span style="s3"> love</span> it I only wish Kia<span style="s3"> added</span> a</p>
+<p begin="00:04:26.830" end="00:04:30.670" style="s2">little<span style="s3"> blood</span> that<span style="s3"> would</span> really<span style="s3"> complete</span></p>
+<p begin="00:04:28.660" end="00:04:33.640" style="s2">things for me<span style="s4"> personal</span> next<span style="s4"> I&#39;m</span> moving</p>
+<p begin="00:04:30.670" end="00:04:36.040" style="s2">on<span style="s3"> to the headlights</span><span style="s4"> I</span> really<span style="s4"> loved</span> the</p>
+<p begin="00:04:33.640" end="00:04:37.360" style="s2"><span style="s3">look of the headlights in this car that</span></p>
+<p begin="00:04:36.040" end="00:04:40.090" style="s2"><span style="s3">really look like</span> the headlights<span style="s3"> you</span></p>
+<p begin="00:04:37.360" end="00:04:41.200" style="s2">expect in a luxury sedan look at that<span style="s3"> it</span></p>
+<p begin="00:04:40.090" end="00:04:44.140" style="s2">almost looks like<span style="s4"> too</span> futuristic</p>
+<p begin="00:04:41.200" end="00:04:46.450" style="s2"><span style="s3">soldiers</span> marching together<span style="s3"> into</span> battle</p>
+<p begin="00:04:44.140" end="00:04:49.150" style="s2">it&#39;s a cool look<span style="s3"> something</span> I<span style="s3"> don&#39;t</span> quite</p>
+<p begin="00:04:46.450" end="00:04:51.490" style="s2"><span style="s4">like</span> is on the fender<span style="s3"> that</span> would be the</p>
+<p begin="00:04:49.150" end="00:04:53.380" style="s2">little fender vent<span style="s3"> on the side not</span><span style="s4"> only</span></p>
+<p begin="00:04:51.490" end="00:04:56.050" style="s2"><span style="s4">is</span> it<span style="s3"> sort</span> of<span style="s3"> like</span> a<span style="s4"> pathetic</span> little</p>
+<p begin="00:04:53.380" end="00:04:59.380" style="s2">attempt at keeping up with the fender</p>
+<p begin="00:04:56.050" end="00:05:01.750" style="s2">vent trend<span style="s3"> but</span> of course it&#39;s fake<span style="s3"> and</span></p>
+<p begin="00:04:59.380" end="00:05:03.220" style="s2">it dates the car and it looks<span style="s3"> stupid one</span></p>
+<p begin="00:05:01.750" end="00:05:04.479" style="s2">interesting item at the<span style="s3"> fender</span><span style="s4"> vendo</span> you</p>
+<p begin="00:05:03.220" end="00:05:05.919" style="s2">see how<span style="s4"> it&#39;s</span> sort<span style="s3"> of</span> pinched in the</p>
+<p begin="00:05:04.479" end="00:05:07.900" style="s2"><span style="s3">middle</span> from the top and<span style="s3"> the</span> bottom<span style="s4"> that</span></p>
+<p begin="00:05:05.919" end="00:05:10.120" style="s2"><span style="s4">is</span> supposed to<span style="s4"> mimic</span> the look<span style="s3"> of</span> the</p>
+<p begin="00:05:07.900" end="00:05:11.919" style="s2">Grill which<span style="s3"> kia</span> calls the<span style="s3"> tiger</span><span style="s4"> nose</span></p>
+<p begin="00:05:10.120" end="00:05:13.300" style="s2">it&#39;s pinched<span style="s3"> on</span> the top of the bottom</p>
+<p begin="00:05:11.919" end="00:05:15.759" style="s2"><span style="s4">just like the grill and</span><span style="s3"> it&#39;s</span> supposed to</p>
+<p begin="00:05:13.300" end="00:05:17.740" style="s2"><span style="s3">sort</span><span style="s4"> of</span> have a distinctive<span style="s4"> Kia</span><span style="s3"> look</span> to</p>
+<p begin="00:05:15.759" end="00:05:19.840" style="s2">it<span style="s3"> next</span><span style="s4"> up</span><span style="s3"> another</span> extra item<span style="s3"> I</span> like on</p>
+<p begin="00:05:17.740" end="00:05:21.130" style="s2">this car<span style="s3"> that</span> would<span style="s3"> be</span><span style="s4"> the</span> mirror turn</p>
+<p begin="00:05:19.840" end="00:05:22.870" style="s2"><span style="s3">signal so it&#39;s not just</span> sort<span style="s3"> of</span> some</p>
+<p begin="00:05:21.130" end="00:05:25.060" style="s2">turn signal slapped on the mirror<span style="s3"> but</span></p>
+<p begin="00:05:22.870" end="00:05:27.580" style="s2">instead it&#39;s this nice little<span style="s3"> C</span> shape</p>
+<p begin="00:05:25.060" end="00:05:29.710" style="s2">that looks upscale and<span style="s3"> luxurious</span><span style="s4"> now</span></p>
+<p begin="00:05:27.580" end="00:05:31.330" style="s2">aside from<span style="s4"> that</span> this<span style="s4"> cars</span><span style="s3"> exterior is</span></p>
+<p begin="00:05:29.710" end="00:05:33.220" style="s2">pretty conservative it&#39;s not really</p>
+<p begin="00:05:31.330" end="00:05:35.050" style="s2">designed<span style="s4"> to</span> make a splash<span style="s3"> or</span> make some</p>
+<p begin="00:05:33.220" end="00:05:37.030" style="s2"><span style="s3">crazy</span> statement so there aren&#39;t<span style="s4"> really</span></p>
+<p begin="00:05:35.050" end="00:05:38.740" style="s2"><span style="s4">any</span> other quirks<span style="s3"> so</span> it&#39;s time<span style="s4"> to</span><span style="s3"> head</span></p>
+<p begin="00:05:37.030" end="00:05:40.210" style="s2">inside<span style="s4"> I&#39;m</span><span style="s3"> gonna</span> start with<span style="s3"> the</span> door</p>
+<p begin="00:05:38.740" end="00:05:42.190" style="s2">panel now one<span style="s3"> interesting</span> item you&#39;ll</p>
+<p begin="00:05:40.210" end="00:05:44.889" style="s2">notice in the door panel<span style="s3"> is</span> this little</p>
+<p begin="00:05:42.190" end="00:05:46.120" style="s2">strip<span style="s3"> of</span> LED lights down<span style="s4"> here</span> now most</p>
+<p begin="00:05:44.889" end="00:05:47.949" style="s2">doors when they&#39;re<span style="s3"> open</span> they<span style="s4"> have</span> a</p>
+<p begin="00:05:46.120" end="00:05:49.930" style="s2">little reflector on the side and</p>
+<p begin="00:05:47.949" end="00:05:51.130" style="s2">oncoming traffic sees the reflector<span style="s3"> and</span></p>
+<p begin="00:05:49.930" end="00:05:52.840" style="s2">they know that<span style="s4"> a</span> door is open they</p>
+<p begin="00:05:51.130" end="00:05:55.030" style="s2">should be careful<span style="s4"> but</span> this car forgets</p>
+<p begin="00:05:52.840" end="00:05:56.590" style="s2">the reflector and<span style="s4"> it</span> has these LEDs now</p>
+<p begin="00:05:55.030" end="00:05:58.870" style="s2">the weird<span style="s3"> thing</span> about<span style="s3"> these</span> LEDs is it&#39;s</p>
+<p begin="00:05:56.590" end="00:06:00.130" style="s2">a sort of little strip of LED dots that</p>
+<p begin="00:05:58.870" end="00:06:02.800" style="s2"><span style="s3">look</span><span style="s4"> like</span> they came out of<span style="s3"> a</span> nightclub</p>
+<p begin="00:06:00.130" end="00:06:05.139" style="s2"><span style="s4">or</span> maybe an<span style="s4"> open</span> sign outside<span style="s3"> of</span> a Thai</p>
+<p begin="00:06:02.800" end="00:06:07.419" style="s2">restaurant<span style="s3"> they&#39;re</span> so weird now when you</p>
+<p begin="00:06:05.139" end="00:06:09.280" style="s2">close the door<span style="s4"> the</span><span style="s3"> LEDs</span> turn off when</p>
+<p begin="00:06:07.419" end="00:06:10.930" style="s2">you open them<span style="s3"> they</span> turn back on<span style="s3"> another</span></p>
+<p begin="00:06:09.280" end="00:06:12.789" style="s2"><span style="s3">interesting</span> item<span style="s3"> inside</span> the door panel</p>
+<p begin="00:06:10.930" end="00:06:14.650" style="s2">would<span style="s3"> be</span><span style="s4"> the</span> power<span style="s3"> seat</span> controls you</p>
+<p begin="00:06:12.789" end="00:06:16.330" style="s2"><span style="s3">will</span> see the bottom<span style="s4"> part of the seat</span></p>
+<p begin="00:06:14.650" end="00:06:18.070" style="s2">moves like normal<span style="s4"> and</span> the middle part</p>
+<p begin="00:06:16.330" end="00:06:19.990" style="s2"><span style="s4">the</span> backrest also moves like normal</p>
+<p begin="00:06:18.070" end="00:06:21.520" style="s2">above the backrest there&#39;s the headrest</p>
+<p begin="00:06:19.990" end="00:06:24.490" style="s2">control with only one little<span style="s3"> problem</span></p>
+<p begin="00:06:21.520" end="00:06:26.830" style="s2"><span style="s4">it&#39;s</span><span style="s3"> fixed the</span><span style="s4"> headrests</span><span style="s3"> in</span> this car</p>
+<p begin="00:06:24.490" end="00:06:29.710" style="s2">moved manually not with the little</p>
+<p begin="00:06:26.830" end="00:06:31.599" style="s2">control on the door it&#39;s a fake headrest</p>
+<p begin="00:06:29.710" end="00:06:33.280" style="s2">control<span style="s3"> presumably</span> there&#39;s some version</p>
+<p begin="00:06:31.599" end="00:06:34.960" style="s2"><span style="s3">of</span> this car with 28 weight power seats</p>
+<p begin="00:06:33.280" end="00:06:37.150" style="s2">and that<span style="s3"> headrest</span> control is active but</p>
+<p begin="00:06:34.960" end="00:06:38.800" style="s2"><span style="s3">in</span> this<span style="s3"> car</span><span style="s4"> it</span> just<span style="s4"> sits</span> there looking</p>
+<p begin="00:06:37.150" end="00:06:40.900" style="s2"><span style="s4">like</span> it<span style="s4"> does</span> something with actually</p>
+<p begin="00:06:38.800" end="00:06:42.699" style="s2">it&#39;s a fake control it has<span style="s3"> no</span> purpose</p>
+<p begin="00:06:40.900" end="00:06:44.080" style="s2"><span style="s4">but</span><span style="s3"> moving</span> inside back to the lights<span style="s3"> for</span></p>
+<p begin="00:06:42.699" end="00:06:46.240" style="s2">a second one item I find<span style="s3"> absolutely</span></p>
+<p begin="00:06:44.080" end="00:06:48.340" style="s2">hilarious<span style="s3"> with</span> the interior lights<span style="s3"> is</span></p>
+<p begin="00:06:46.240" end="00:06:49.990" style="s2"><span style="s4">that</span> the buttons<span style="s4"> to</span> turn on the interior</p>
+<p begin="00:06:48.340" end="00:06:52.090" style="s2"><span style="s3">lights</span> don&#39;t<span style="s3"> say</span> dome light or just</p>
+<p begin="00:06:49.990" end="00:06:55.479" style="s2"><span style="s4">front</span> and rear instead it says front</p>
+<p begin="00:06:52.090" end="00:06:57.520" style="s2">room and rear room and when you push</p>
+<p begin="00:06:55.479" end="00:06:59.050" style="s2">them<span style="s4"> front</span> room that turns on the<span style="s3"> lights</span></p>
+<p begin="00:06:57.520" end="00:07:00.610" style="s2"><span style="s3">for the front when you push the rear</span></p>
+<p begin="00:06:59.050" end="00:07:02.440" style="s2">room it turns on the<span style="s4"> lights for</span><span style="s3"> the</span> back</p>
+<p begin="00:07:00.610" end="00:07:04.750" style="s2">I guess<span style="s4"> Kia</span> doesn&#39;t like to think of<span style="s3"> it</span></p>
+<p begin="00:07:02.440" end="00:07:07.810" style="s2">as front seats this<span style="s3"> is the the front</span></p>
+<p begin="00:07:04.750" end="00:07:09.280" style="s2">room of<span style="s3"> the</span> automobile<span style="s4"> next</span> up another</p>
+<p begin="00:07:07.810" end="00:07:11.199" style="s2"><span style="s3">interesting</span> control in this car that</p>
+<p begin="00:07:09.280" end="00:07:12.610" style="s2"><span style="s4">would</span><span style="s3"> be</span> the center screen<span style="s3"> now</span> if you</p>
+<p begin="00:07:11.199" end="00:07:13.930" style="s2">look at<span style="s3"> where the center screen is</span></p>
+<p begin="00:07:12.610" end="00:07:15.699" style="s2">placed<span style="s3"> you</span> can<span style="s3"> see</span> it looks<span style="s3"> like it</span></p>
+<p begin="00:07:13.930" end="00:07:17.440" style="s2"><span style="s4">should</span><span style="s3"> be</span> a<span style="s4"> touchscreen</span> it&#39;s within</p>
+<p begin="00:07:15.699" end="00:07:19.270" style="s2">reach<span style="s4"> of the driver it&#39;d be easy</span><span style="s3"> to</span></p>
+<p begin="00:07:17.440" end="00:07:20.500" style="s2">press but it isn&#39;t instead<span style="s3"> it&#39;s</span></p>
+<p begin="00:07:19.270" end="00:07:21.520" style="s2">controlled with a series of<span style="s3"> little</span></p>
+<p begin="00:07:20.500" end="00:07:23.349" style="s2"><span style="s3">buttons</span> in the<span style="s4"> center</span></p>
+<p begin="00:07:21.520" end="00:07:25.150" style="s2"><span style="s3">console one thing</span><span style="s4"> Kia</span> got absolutely</p>
+<p begin="00:07:23.349" end="00:07:27.789" style="s2">right in this car<span style="s3"> and</span> gets right<span style="s3"> in</span> all</p>
+<p begin="00:07:25.150" end="00:07:29.830" style="s2">their cars is the font<span style="s4"> kia</span> has<span style="s3"> this</span> cool</p>
+<p begin="00:07:27.789" end="00:07:31.990" style="s2">futuristic font and<span style="s3"> they</span> use<span style="s3"> it</span> in all</p>
+<p begin="00:07:29.830" end="00:07:33.970" style="s2"><span style="s4">of</span><span style="s3"> the</span> buttons and<span style="s3"> all</span> of<span style="s4"> this</span><span style="s3"> switch</span></p>
+<p begin="00:07:31.990" end="00:07:35.830" style="s2"><span style="s3">gear its distinctive and</span> it looks cool</p>
+<p begin="00:07:33.970" end="00:07:37.539" style="s2"><span style="s3">they</span> even use in the<span style="s3"> infotainment</span> system</p>
+<p begin="00:07:35.830" end="00:07:38.979" style="s2">and<span style="s4"> even</span> the navigation system to<span style="s3"> show</span></p>
+<p begin="00:07:37.539" end="00:07:41.169" style="s2">street names<span style="s3"> and</span> stuff</p>
+<p begin="00:07:38.979" end="00:07:42.669" style="s2">thoughts are an<span style="s3"> interesting</span> thing a lot</p>
+<p begin="00:07:41.169" end="00:07:44.199" style="s2">of<span style="s4"> automakers</span><span style="s3"> will</span> tell you<span style="s4"> off</span><span style="s3"> fonts</span></p>
+<p begin="00:07:42.669" end="00:07:45.970" style="s2">don&#39;t matter a button is a button<span style="s4"> and</span></p>
+<p begin="00:07:44.199" end="00:07:48.099" style="s2">nobody cares what<span style="s3"> it</span> looks<span style="s3"> like</span> but has</p>
+<p begin="00:07:45.970" end="00:07:49.389" style="s2">an apple proven that<span style="s3"> commercial</span> design</p>
+<p begin="00:07:48.099" end="00:07:52.090" style="s2"><span style="s4">is</span><span style="s3"> something</span><span style="s4"> people</span><span style="s3"> are</span><span style="s4"> actually</span></p>
+<p begin="00:07:49.389" end="00:07:54.400" style="s2"><span style="s3">interested</span> in<span style="s3"> Volvo</span> also has a really</p>
+<p begin="00:07:52.090" end="00:07:55.930" style="s2"><span style="s4">cool</span> for all<span style="s3"> its</span> buttons and<span style="s3"> it&#39;s</span> gauges</p>
+<p begin="00:07:54.400" end="00:07:57.669" style="s2">and<span style="s4"> should</span> be getting a Volvo<span style="s4"> you</span> look</p>
+<p begin="00:07:55.930" end="00:07:59.710" style="s2">at that<span style="s4"> phone</span> it<span style="s4"> just</span> looks cool</p>
+<p begin="00:07:57.669" end="00:08:02.319" style="s2">whereas GM has been using the same</p>
+<p begin="00:07:59.710" end="00:08:04.240" style="s2"><span style="s4">thoughts</span> since<span style="s3"> like</span> 1989<span style="s3"> and</span> every time</p>
+<p begin="00:08:02.319" end="00:08:06.310" style="s2">I get<span style="s4"> in</span> a GM vehicle<span style="s3"> it</span> doesn&#39;t matter</p>
+<p begin="00:08:04.240" end="00:08:08.710" style="s2">if it&#39;s a<span style="s4"> Corvette</span> or<span style="s4"> an</span> Escalade<span style="s4"> I</span></p>
+<p begin="00:08:06.310" end="00:08:12.520" style="s2">can&#39;t help but thinking it looks like my</p>
+<p begin="00:08:08.710" end="00:08:14.050" style="s2">grandma&#39;s 97 Buick Regal LS next up</p>
+<p begin="00:08:12.520" end="00:08:16.360" style="s2">another<span style="s3"> interesting</span> item in the<span style="s3"> k900</span></p>
+<p begin="00:08:14.050" end="00:08:18.039" style="s2"><span style="s3">this</span> car has<span style="s3"> a panoramic</span><span style="s4"> sunroof</span> that&#39;s</p>
+<p begin="00:08:16.360" end="00:08:20.110" style="s2"><span style="s3">not</span> all<span style="s3"> that</span> surprising most cars at</p>
+<p begin="00:08:18.039" end="00:08:21.190" style="s2">this price point have<span style="s3"> one the unusual</span></p>
+<p begin="00:08:20.110" end="00:08:23.139" style="s2"><span style="s4">thing</span> is that most<span style="s3"> cars</span><span style="s4"> have</span> like a</p>
+<p begin="00:08:21.190" end="00:08:25.930" style="s2">little<span style="s3"> buffer</span> that separates the front</p>
+<p begin="00:08:23.139" end="00:08:28.060" style="s2">and the<span style="s3"> rear sunroof but this one</span></p>
+<p begin="00:08:25.930" end="00:08:30.310" style="s2">doesn&#39;t<span style="s3"> it&#39;s</span> all just one big panel</p>
+<p begin="00:08:28.060" end="00:08:32.050" style="s2"><span style="s3">which</span> means that<span style="s3"> for</span> those<span style="s3"> of</span><span style="s4"> us</span> who are</p>
+<p begin="00:08:30.310" end="00:08:35.409" style="s2"><span style="s4">interested</span><span style="s3"> in</span> the little things we<span style="s4"> get</span></p>
+<p begin="00:08:32.050" end="00:08:37.360" style="s2"><span style="s3">to</span><span style="s4"> watch</span> the<span style="s4"> sunshade</span><span style="s3"> close</span> together and</p>
+<p begin="00:08:35.409" end="00:08:40.270" style="s2">we<span style="s4"> can</span><span style="s3"> watch it meet</span><span style="s4"> in</span><span style="s3"> the middle in</span></p>
+<p begin="00:08:37.360" end="00:08:42.219" style="s2">perfect<span style="s4"> sun</span> shade harmony<span style="s3"> it&#39;s</span> actually</p>
+<p begin="00:08:40.270" end="00:08:44.440" style="s2">kind of a satisfying thing<span style="s4"> to</span> watch when</p>
+<p begin="00:08:42.219" end="00:08:46.540" style="s2">it does meet<span style="s3"> also</span> satisfying is the</p>
+<p begin="00:08:44.440" end="00:08:48.250" style="s2">sound of the k900<span style="s3"> makes</span> when you&#39;re</p>
+<p begin="00:08:46.540" end="00:08:49.779" style="s2">leaving<span style="s3"> it</span> you turn off the car you&#39;re</p>
+<p begin="00:08:48.250" end="00:08:52.380" style="s2">about to get<span style="s3"> out</span> and it makes the</p>
+<p begin="00:08:49.779" end="00:08:52.380" style="s2"><span style="s3">following</span> sound</p>
+<p begin="00:08:52.850" end="00:08:59.930" style="s2"><span style="s4">I</span> don&#39;t know why it has to make a sound</p>
+<p begin="00:08:56.269" end="00:09:01.490" style="s2">but<span style="s3"> it</span> does and that&#39;s<span style="s3"> it</span><span style="s4"> next up</span><span style="s3"> we</span></p>
+<p begin="00:08:59.930" end="00:09:02.839" style="s2">move on to the<span style="s4"> glovebox which isn&#39;t</span></p>
+<p begin="00:09:01.490" end="00:09:04.910" style="s2"><span style="s3">particularly</span> unusual though it does</p>
+<p begin="00:09:02.839" end="00:09:07.130" style="s2">contain<span style="s3"> the</span><span style="s4"> owners manual which has a</span></p>
+<p begin="00:09:04.910" end="00:09:09.529" style="s2">few<span style="s4"> interesting</span> peculiarities starting</p>
+<p begin="00:09:07.130" end="00:09:11.480" style="s2">with this<span style="s3"> little</span><span style="s4"> plastic</span> sleeve that</p>
+<p begin="00:09:09.529" end="00:09:13.519" style="s2">it&#39;s in I guarantee the owner of the car</p>
+<p begin="00:09:11.480" end="00:09:15.199" style="s2">was<span style="s3"> never</span> supposed<span style="s3"> to</span><span style="s4"> see</span> the<span style="s3"> plastic</span></p>
+<p begin="00:09:13.519" end="00:09:16.850" style="s2">sleeve the<span style="s3"> owner&#39;s</span> manual<span style="s4"> was</span><span style="s3"> supposed</span></p>
+<p begin="00:09:15.199" end="00:09:19.430" style="s2">to<span style="s3"> be</span><span style="s4"> delivered</span> in<span style="s3"> this</span> nice leather</p>
+<p begin="00:09:16.850" end="00:09:20.690" style="s2">pouch but I guess the dealer forgot to</p>
+<p begin="00:09:19.430" end="00:09:22.339" style="s2">remove<span style="s3"> it</span> from the sleeve<span style="s3"> and</span> the owner</p>
+<p begin="00:09:20.690" end="00:09:25.100" style="s2"><span style="s3">of</span> this card has never<span style="s3"> taken</span> it<span style="s3"> out</span> so</p>
+<p begin="00:09:22.339" end="00:09:27.290" style="s2">we<span style="s3"> get</span> to see how<span style="s4"> kia keeps its owner&#39;s</span></p>
+<p begin="00:09:25.100" end="00:09:28.430" style="s2">manuals safe when the car<span style="s4"> is</span><span style="s3"> in</span> transit</p>
+<p begin="00:09:27.290" end="00:09:29.899" style="s2"><span style="s4">I</span> especially like there&#39;s this<span style="s3"> little</span></p>
+<p begin="00:09:28.430" end="00:09:31.579" style="s2">Korean<span style="s3"> writing</span> on the bottom<span style="s4"> of</span><span style="s3"> it</span></p>
+<p begin="00:09:29.899" end="00:09:34.579" style="s2">letting<span style="s4"> you</span> know you&#39;re not<span style="s3"> in</span> some</p>
+<p begin="00:09:31.579" end="00:09:35.779" style="s2">knockoff k900 this is the real deal<span style="s4"> now</span></p>
+<p begin="00:09:34.579" end="00:09:37.279" style="s2"><span style="s4">when</span> you actually<span style="s3"> take</span> a<span style="s3"> look</span> at the</p>
+<p begin="00:09:35.779" end="00:09:38.839" style="s2"><span style="s3">owner&#39;s</span> manual<span style="s4"> you&#39;ll</span> notice a couple<span style="s4"> of</span></p>
+<p begin="00:09:37.279" end="00:09:41.269" style="s2">interesting<span style="s3"> things</span><span style="s4"> the</span> one I noticed</p>
+<p begin="00:09:38.839" end="00:09:42.860" style="s2"><span style="s4">right</span><span style="s3"> away</span> is<span style="s3"> there&#39;s</span> a loose page in</p>
+<p begin="00:09:41.269" end="00:09:44.420" style="s2">the owners<span style="s4"> manual</span> figured it just<span style="s3"> came</span></p>
+<p begin="00:09:42.860" end="00:09:46.910" style="s2"><span style="s3">out</span> but if<span style="s3"> you look closely at the</span> page</p>
+<p begin="00:09:44.420" end="00:09:49.610" style="s2">it actually<span style="s3"> says</span><span style="s4"> on</span> it please<span style="s3"> see</span> this</p>
+<p begin="00:09:46.910" end="00:09:52.130" style="s2">page instead<span style="s4"> of</span> page<span style="s3"> three</span><span style="s4"> dash six</span><span style="s3"> and</span></p>
+<p begin="00:09:49.610" end="00:09:54.410" style="s2"><span style="s4">three dash 14 in the owners manual</span><span style="s3"> in</span></p>
+<p begin="00:09:52.130" end="00:09:56.180" style="s2">other words this is like a supplement</p>
+<p begin="00:09:54.410" end="00:09:57.500" style="s2">they printed their owners manual wrong</p>
+<p begin="00:09:56.180" end="00:09:59.990" style="s2">and they want you to<span style="s3"> look</span> at this</p>
+<p begin="00:09:57.500" end="00:10:04.100" style="s2">instead<span style="s4"> of</span> something else<span style="s4"> now</span> I looked</p>
+<p begin="00:09:59.990" end="00:10:06.860" style="s2">at pages<span style="s3"> 3</span> - 6<span style="s3"> and 3 - 14 the</span> forbidden</p>
+<p begin="00:10:04.100" end="00:10:08.029" style="s2">pages and what I found is that<span style="s4"> actually</span></p>
+<p begin="00:10:06.860" end="00:10:09.980" style="s2">they kind<span style="s4"> of</span><span style="s3"> talked</span><span style="s4"> about</span> different</p>
+<p begin="00:10:08.029" end="00:10:11.930" style="s2"><span style="s4">stuff</span> I<span style="s4"> don&#39;t</span> really understand why this</p>
+<p begin="00:10:09.980" end="00:10:12.980" style="s2"><span style="s3">is</span> supposed to<span style="s3"> replace</span> those<span style="s3"> pages</span> and</p>
+<p begin="00:10:11.930" end="00:10:14.630" style="s2">it doesn&#39;t seem<span style="s4"> to have</span><span style="s3"> to</span> do with</p>
+<p begin="00:10:12.980" end="00:10:16.430" style="s2">equipment<span style="s3"> there</span> are items all over the</p>
+<p begin="00:10:14.630" end="00:10:18.290" style="s2">owners<span style="s4"> manual</span> that<span style="s3"> say</span> if applicable for</p>
+<p begin="00:10:16.430" end="00:10:18.680" style="s2">features that<span style="s3"> some models have and some</span></p>
+<p begin="00:10:18.290" end="00:10:21.050" style="s2">don&#39;t</p>
+<p begin="00:10:18.680" end="00:10:23.600" style="s2">nonetheless<span style="s4"> I</span> guess<span style="s4"> Kia</span> decided this</p>
+<p begin="00:10:21.050" end="00:10:25.160" style="s2">page was better than some<span style="s3"> of these pages</span></p>
+<p begin="00:10:23.600" end="00:10:27.649" style="s2"><span style="s3">it&#39;s</span> really strange I&#39;ve never seen an</p>
+<p begin="00:10:25.160" end="00:10:30.439" style="s2">addendum added to an owner&#39;s manual<span style="s3"> in</span></p>
+<p begin="00:10:27.649" end="00:10:32.060" style="s2">this fashion<span style="s4"> before</span> now speaking of the</p>
+<p begin="00:10:30.439" end="00:10:35.569" style="s2">owner&#39;s manual<span style="s4"> I</span> should mention that<span style="s3"> it</span></p>
+<p begin="00:10:32.060" end="00:10:37.100" style="s2"><span style="s4">is</span> absolutely<span style="s3"> massively massive it&#39;s</span></p>
+<p begin="00:10:35.569" end="00:10:39.110" style="s2">just huge it&#39;s one of the<span style="s3"> biggest</span> I&#39;ve</p>
+<p begin="00:10:37.100" end="00:10:41.810" style="s2"><span style="s4">ever</span> come across<span style="s4"> in</span> fact it&#39;s so big</p>
+<p begin="00:10:39.110" end="00:10:44.360" style="s2"><span style="s3">that</span> I strongly<span style="s3"> suspect</span> that<span style="s3"> they</span> didn&#39;t</p>
+<p begin="00:10:41.810" end="00:10:46.790" style="s2">really<span style="s3"> go to the trouble of</span> reading<span style="s3"> the</span></p>
+<p begin="00:10:44.360" end="00:10:47.480" style="s2">entire<span style="s3"> thing</span><span style="s4"> I</span> did read some<span style="s4"> of</span> the</p>
+<p begin="00:10:46.790" end="00:10:48.829" style="s2"><span style="s3">owner&#39;s</span> manual</p>
+<p begin="00:10:47.480" end="00:10:51.769" style="s2">I&#39;ve found a<span style="s3"> couple</span> of<span style="s3"> interesting</span></p>
+<p begin="00:10:48.829" end="00:10:54.649" style="s2">errors for<span style="s3"> example</span><span style="s4"> on</span><span style="s3"> page 4 - 44 under</span></p>
+<p begin="00:10:51.769" end="00:10:56.329" style="s2">the horn section it says<span style="s4"> to</span> sound the</p>
+<p begin="00:10:54.649" end="00:10:58.279" style="s2">horn<span style="s3"> press</span> the horn symbol on your</p>
+<p begin="00:10:56.329" end="00:11:00.050" style="s2"><span style="s3">steering</span> wheel check the horn<span style="s3"> regularly</span></p>
+<p begin="00:10:58.279" end="00:11:02.449" style="s2">to be sure it operates<span style="s3"> properly then</span><span style="s4"> the</span></p>
+<p begin="00:11:00.050" end="00:11:04.670" style="s2">next line<span style="s3"> to</span> sound the horn<span style="s3"> press</span> the</p>
+<p begin="00:11:02.449" end="00:11:05.980" style="s2">horn<span style="s3"> area</span> indicated by the horn symbol</p>
+<p begin="00:11:04.670" end="00:11:08.740" style="s2">on your<span style="s3"> steering</span><span style="s4"> wheel</span></p>
+<p begin="00:11:05.980" end="00:11:10.840" style="s2"><span style="s3">okay</span> so thanks for telling<span style="s4"> me that twice</span></p>
+<p begin="00:11:08.740" end="00:11:12.910" style="s2">then the rest of the page<span style="s4"> is</span> blank<span style="s4"> so</span></p>
+<p begin="00:11:10.840" end="00:11:14.920" style="s2"><span style="s3">really</span> this is<span style="s3"> a</span><span style="s4"> high-quality</span> document</p>
+<p begin="00:11:12.910" end="00:11:16.780" style="s2">and I would trust it to have every piece</p>
+<p begin="00:11:14.920" end="00:11:18.820" style="s2"><span style="s4">of information I could possibly need oh</span></p>
+<p begin="00:11:16.780" end="00:11:21.610" style="s2">and by the way<span style="s3"> one</span><span style="s4"> other</span> item about that</p>
+<p begin="00:11:18.820" end="00:11:23.290" style="s2"><span style="s3">horn</span> page it specifically says you have</p>
+<p begin="00:11:21.610" end="00:11:24.910" style="s2">to press the horn symbol on your</p>
+<p begin="00:11:23.290" end="00:11:27.550" style="s2"><span style="s4">steering wheel for</span><span style="s3"> the</span> horn top right it</p>
+<p begin="00:11:24.910" end="00:11:31.020" style="s2">says the horn will only operate<span style="s3"> when</span></p>
+<p begin="00:11:27.550" end="00:11:31.020" style="s2">this area<span style="s4"> is</span> pressed</p>
+<p begin="00:11:35.070" end="00:11:39.250" style="s2"><span style="s4">next</span> up we move on to the screens now</p>
+<p begin="00:11:37.450" end="00:11:41.110" style="s2">there<span style="s3"> aren&#39;t</span> as many configurable and</p>
+<p begin="00:11:39.250" end="00:11:43.000" style="s2">interesting features<span style="s4"> inside</span> this cars</p>
+<p begin="00:11:41.110" end="00:11:45.340" style="s2"><span style="s3">there</span> on the<span style="s3"> stinger GT or</span> the Genesis</p>
+<p begin="00:11:43.000" end="00:11:47.800" style="s2"><span style="s4">g90</span> but there are a<span style="s3"> couple</span> of quirks</p>
+<p begin="00:11:45.340" end="00:11:49.330" style="s2">starting with the gauge cluster screen<span style="s4"> I</span></p>
+<p begin="00:11:47.800" end="00:11:51.640" style="s2">really like the fact<span style="s4"> that</span><span style="s3"> you</span> could</p>
+<p begin="00:11:49.330" end="00:11:53.200" style="s2"><span style="s4">adjust</span><span style="s3"> the</span> service interval in this car</p>
+<p begin="00:11:51.640" end="00:11:55.300" style="s2">if you don&#39;t want the service interval</p>
+<p begin="00:11:53.200" end="00:11:57.100" style="s2">to say 5,000 miles say your oil change</p>
+<p begin="00:11:55.300" end="00:11:58.840" style="s2">light comes on we could say forget that</p>
+<p begin="00:11:57.100" end="00:12:00.700" style="s2">let&#39;s make<span style="s4"> it 8,000 miles then you</span><span style="s3"> can</span></p>
+<p begin="00:11:58.840" end="00:12:03.970" style="s2"><span style="s3">just</span> keep driving<span style="s3"> with</span> all the peace of</p>
+<p begin="00:12:00.700" end="00:12:05.740" style="s2"><span style="s3">mind</span> that<span style="s4"> that</span> entails<span style="s4"> next</span> up moving on</p>
+<p begin="00:12:03.970" end="00:12:07.180" style="s2">to the infotainment system settings</p>
+<p begin="00:12:05.740" end="00:12:09.010" style="s2">there are<span style="s3"> a</span> couple of<span style="s4"> interesting</span> quirks</p>
+<p begin="00:12:07.180" end="00:12:11.620" style="s2">in<span style="s3"> here</span> one of<span style="s3"> which</span> is that<span style="s3"> in the</span></p>
+<p begin="00:12:09.010" end="00:12:13.870" style="s2">navigation<span style="s3"> system</span> settings you<span style="s3"> can</span></p>
+<p begin="00:12:11.620" end="00:12:15.790" style="s2">actually change<span style="s4"> the</span> color<span style="s3"> of</span><span style="s4"> your</span><span style="s3"> route</span></p>
+<p begin="00:12:13.870" end="00:12:17.230" style="s2">guidance line the little line that<span style="s3"> tells</span></p>
+<p begin="00:12:15.790" end="00:12:18.940" style="s2">you make a left<span style="s4"> turn</span> on this<span style="s3"> street</span> make</p>
+<p begin="00:12:17.230" end="00:12:20.650" style="s2">a right<span style="s4"> turn</span> on<span style="s3"> this</span> on-ramp<span style="s3"> you</span> can</p>
+<p begin="00:12:18.940" end="00:12:23.380" style="s2">make it various different<span style="s3"> colors</span></p>
+<p begin="00:12:20.650" end="00:12:24.460" style="s2">depending on<span style="s3"> your</span> preference<span style="s4"> I&#39;ve</span> seen a</p>
+<p begin="00:12:23.380" end="00:12:26.320" style="s2">lot<span style="s4"> of</span><span style="s3"> different things that</span> are</p>
+<p begin="00:12:24.460" end="00:12:27.640" style="s2"><span style="s3">configurable</span> before<span style="s4"> but</span> I&#39;ve never<span style="s4"> seen</span></p>
+<p begin="00:12:26.320" end="00:12:29.950" style="s2"><span style="s4">that</span> who looks at the route guidance</p>
+<p begin="00:12:27.640" end="00:12:32.350" style="s2">line and says boy I wish that were</p>
+<p begin="00:12:29.950" end="00:12:34.240" style="s2">purple another interesting configurable</p>
+<p begin="00:12:32.350" end="00:12:37.660" style="s2">item in the voice recognition system<span style="s3"> you</span></p>
+<p begin="00:12:34.240" end="00:12:38.740" style="s2">can choose<span style="s3"> between</span> normal<span style="s3"> and</span> expert<span style="s3"> so</span></p>
+<p begin="00:12:37.660" end="00:12:41.440" style="s2">if you feel that<span style="s4"> you&#39;re</span> a voice</p>
+<p begin="00:12:38.740" end="00:12:42.790" style="s2">recognition system<span style="s3"> expert</span> you can<span style="s3"> tell</span></p>
+<p begin="00:12:41.440" end="00:12:44.380" style="s2">the car that you know how some people</p>
+<p begin="00:12:42.790" end="00:12:46.270" style="s2">brag that<span style="s3"> they&#39;re</span> good<span style="s3"> at</span> video<span style="s3"> games</span></p>
+<p begin="00:12:44.380" end="00:12:48.430" style="s2"><span style="s3">and others brag</span> they&#39;re good at driving</p>
+<p begin="00:12:46.270" end="00:12:49.930" style="s2"><span style="s3">or</span> whatever<span style="s4"> maybe</span> some<span style="s3"> people</span> go around</p>
+<p begin="00:12:48.430" end="00:12:52.150" style="s2"><span style="s4">telling</span> their co-workers yeah I&#39;m a</p>
+<p begin="00:12:49.930" end="00:12:53.530" style="s2">voice<span style="s3"> recognition</span> expert no problem<span style="s4"> yeah</span></p>
+<p begin="00:12:52.150" end="00:12:55.060" style="s2">I&#39;m an expert<span style="s4"> at</span> voice recognition</p>
+<p begin="00:12:53.530" end="00:12:56.800" style="s2">systems<span style="s4"> I</span> know you&#39;re<span style="s4"> just</span> an amateur</p>
+<p begin="00:12:55.060" end="00:12:59.320" style="s2">you&#39;d have it on normal<span style="s3"> I</span> have<span style="s4"> an</span> expert</p>
+<p begin="00:12:56.800" end="00:13:01.660" style="s2"><span style="s4">no</span> big deal yeah another<span style="s3"> interesting</span></p>
+<p begin="00:12:59.320" end="00:13:03.190" style="s2">piece<span style="s4"> of</span> configurability there is an</p>
+<p begin="00:13:01.660" end="00:13:05.320" style="s2">option<span style="s4"> to</span> choose the image<span style="s4"> that is</span></p>
+<p begin="00:13:03.190" end="00:13:07.090" style="s2"><span style="s4">displayed</span> we have power off<span style="s4"> the</span> default</p>
+<p begin="00:13:05.320" end="00:13:09.490" style="s2">is no image but<span style="s4"> you</span> can also choose a</p>
+<p begin="00:13:07.090" end="00:13:11.770" style="s2"><span style="s3">Kia</span><span style="s4"> ad</span> image I don&#39;t know why anybody</p>
+<p begin="00:13:09.490" end="00:13:13.690" style="s2"><span style="s4">would</span> do<span style="s4"> that</span><span style="s3"> or</span> you can choose<span style="s4"> a</span> custom</p>
+<p begin="00:13:11.770" end="00:13:15.430" style="s2"><span style="s3">image so if you want like a picture of</span></p>
+<p begin="00:13:13.690" end="00:13:16.840" style="s2">your<span style="s3"> kids</span> to show up on the<span style="s3"> infotainment</span></p>
+<p begin="00:13:15.430" end="00:13:18.800" style="s2">screen if you have<span style="s3"> the screen turned off</span></p>
+<p begin="00:13:16.840" end="00:13:20.300" style="s2"><span style="s3">you</span> can upload one<span style="s3"> it actually</span></p>
+<p begin="00:13:18.800" end="00:13:22.040" style="s2">have it up there<span style="s3"> I&#39;ve</span> never<span style="s4"> actually</span></p>
+<p begin="00:13:20.300" end="00:13:23.360" style="s2">seen<span style="s4"> that</span><span style="s3"> before</span> in any<span style="s4"> other</span> car<span style="s3"> it&#39;s</span></p>
+<p begin="00:13:22.040" end="00:13:25.129" style="s2">kind<span style="s4"> of</span> a cool idea</p>
+<p begin="00:13:23.360" end="00:13:26.629" style="s2">next<span style="s3"> up</span> back to the<span style="s4"> navigation</span> settings</p>
+<p begin="00:13:25.129" end="00:13:29.600" style="s2"><span style="s3">one</span> interesting item I found if you<span style="s3"> go</span></p>
+<p begin="00:13:26.629" end="00:13:34.069" style="s2">into guidance<span style="s3"> you have two options</span> curve</p>
+<p begin="00:13:29.600" end="00:13:36.139" style="s2">and merge<span style="s3"> yeah</span> I want<span style="s3"> curve</span> and merge</p>
+<p begin="00:13:34.069" end="00:13:39.139" style="s2"><span style="s3">guidance fortunately they&#39;re both</span></p>
+<p begin="00:13:36.139" end="00:13:41.480" style="s2">checked<span style="s3"> so</span><span style="s4"> I</span> will be guided<span style="s4"> to</span> curves</p>
+<p begin="00:13:39.139" end="00:13:42.829" style="s2"><span style="s3">and</span> merges<span style="s4"> I</span> don&#39;t know why those<span style="s3"> are</span></p>
+<p begin="00:13:41.480" end="00:13:44.119" style="s2">options I don&#39;t know what happens if<span style="s3"> you</span></p>
+<p begin="00:13:42.829" end="00:13:46.100" style="s2">uncheck them I<span style="s4"> don&#39;t</span><span style="s3"> know</span> what they do</p>
+<p begin="00:13:44.119" end="00:13:48.679" style="s2">but<span style="s4"> I</span> bet I<span style="s3"> could</span> find<span style="s3"> out</span> in<span style="s3"> that</span></p>
+<p begin="00:13:46.100" end="00:13:50.299" style="s2">900-page<span style="s4"> owner&#39;s</span> manual<span style="s4"> and one other</span></p>
+<p begin="00:13:48.679" end="00:13:51.920" style="s2">thing I absolutely<span style="s3"> love</span><span style="s4"> about</span><span style="s3"> the</span></p>
+<p begin="00:13:50.299" end="00:13:54.949" style="s2">infotainment<span style="s3"> system</span> is the little</p>
+<p begin="00:13:51.920" end="00:13:57.410" style="s2">interactive guide that teaches<span style="s3"> you</span><span style="s4"> how</span></p>
+<p begin="00:13:54.949" end="00:13:59.779" style="s2">to<span style="s3"> use</span><span style="s4"> the</span> system<span style="s4"> if</span> you click<span style="s3"> on it a</span></p>
+<p begin="00:13:57.410" end="00:14:01.910" style="s2"><span style="s3">little</span> box<span style="s3"> pops</span> up that<span style="s3"> says</span> we will</p>
+<p begin="00:13:59.779" end="00:14:03.259" style="s2">learn about<span style="s3"> ways</span> to<span style="s4"> use</span> this system</p>
+<p begin="00:14:01.910" end="00:14:06.829" style="s2"><span style="s4">who&#39;s</span> we</p>
+<p begin="00:14:03.259" end="00:14:09.290" style="s2">me and the car<span style="s4"> me</span> and I don&#39;t know<span style="s3"> but</span></p>
+<p begin="00:14:06.829" end="00:14:10.639" style="s2">we<span style="s3"> will</span> learn and we<span style="s4"> will</span> learn if you</p>
+<p begin="00:14:09.290" end="00:14:12.799" style="s2">go through<span style="s4"> it the system does have</span> an</p>
+<p begin="00:14:10.639" end="00:14:14.689" style="s2"><span style="s3">interactive</span> guide that teaches<span style="s4"> you how</span></p>
+<p begin="00:14:12.799" end="00:14:17.360" style="s2">to use<span style="s4"> it</span> and at<span style="s3"> the</span><span style="s4"> end</span> it pops up a</p>
+<p begin="00:14:14.689" end="00:14:19.519" style="s2">little<span style="s3"> box that</span><span style="s4"> says</span> congratulations<span style="s4"> you</span></p>
+<p begin="00:14:17.360" end="00:14:21.610" style="s2"><span style="s3">have</span> finished<span style="s3"> learning</span><span style="s4"> about</span> the system</p>
+<p begin="00:14:19.519" end="00:14:25.129" style="s2"><span style="s3">oh</span> it&#39;s like my<span style="s3"> birthday</span><span style="s4"> congratulations</span></p>
+<p begin="00:14:21.610" end="00:14:27.860" style="s2"><span style="s4">to</span> me<span style="s4"> I</span> figured<span style="s4"> out</span> the<span style="s3"> infotainment</span></p>
+<p begin="00:14:25.129" end="00:14:29.299" style="s2">system in the k900<span style="s4"> here&#39;s</span> one thing<span style="s3"> I</span></p>
+<p begin="00:14:27.860" end="00:14:30.829" style="s2"><span style="s4">haven&#39;t</span> figured<span style="s3"> out</span> there&#39;s this huge</p>
+<p begin="00:14:29.299" end="00:14:33.290" style="s2">screen to display the<span style="s3"> artist</span> of the song</p>
+<p begin="00:14:30.829" end="00:14:34.850" style="s2"><span style="s4">name</span> whatever<span style="s3"> but</span> they only use<span style="s3"> about</span> an</p>
+<p begin="00:14:33.290" end="00:14:37.399" style="s2">inch of it so it just<span style="s3"> sort of Scrolls</span></p>
+<p begin="00:14:34.850" end="00:14:39.829" style="s2">through a little at a time<span style="s3"> hey keya</span><span style="s4"> why</span></p>
+<p begin="00:14:37.399" end="00:14:42.319" style="s2">not just display it<span style="s3"> all</span> at once in the</p>
+<p begin="00:14:39.829" end="00:14:44.389" style="s2"><span style="s3">remaining 10 inches of the screen</span><span style="s4"> and</span></p>
+<p begin="00:14:42.319" end="00:14:46.839" style="s2">finally<span style="s4"> we</span> move on to the back seat</p>
+<p begin="00:14:44.389" end="00:14:49.610" style="s2">which is supremely roomy and<span style="s3"> comfortable</span></p>
+<p begin="00:14:46.839" end="00:14:51.769" style="s2"><span style="s4">it&#39;s</span> obviously very large back here this</p>
+<p begin="00:14:49.610" end="00:14:54.110" style="s2"><span style="s3">is</span> after all<span style="s4"> a</span> full-size luxury sedan</p>
+<p begin="00:14:51.769" end="00:14:55.910" style="s2">and there are a<span style="s3"> couple of quirks in</span> back</p>
+<p begin="00:14:54.110" end="00:14:58.339" style="s2">most of<span style="s3"> which</span> are centered<span style="s3"> around the</span></p>
+<p begin="00:14:55.910" end="00:14:59.959" style="s2">center armrest now obviously you<span style="s4"> can</span> put</p>
+<p begin="00:14:58.339" end="00:15:01.970" style="s2">it up and<span style="s3"> then</span> it goes<span style="s3"> away and you fit</span></p>
+<p begin="00:14:59.959" end="00:15:04.249" style="s2">three<span style="s4"> people</span> back here or you can put it</p>
+<p begin="00:15:01.970" end="00:15:06.740" style="s2">down<span style="s4"> you&#39;ll</span> see a couple<span style="s3"> of</span> cup holders</p>
+<p begin="00:15:04.249" end="00:15:08.839" style="s2"><span style="s4">right</span> here<span style="s3"> but</span> the most<span style="s3"> interesting</span></p>
+<p begin="00:15:06.740" end="00:15:10.699" style="s2">pieces<span style="s3"> are</span> along here now if<span style="s4"> you</span> take<span style="s3"> a</span></p>
+<p begin="00:15:08.839" end="00:15:12.769" style="s2">close look<span style="s4"> here</span> you will find seven</p>
+<p begin="00:15:10.699" end="00:15:15.019" style="s2">total buttons and they&#39;re all kind of</p>
+<p begin="00:15:12.769" end="00:15:16.519" style="s2"><span style="s3">interesting</span> the outer two buttons are</p>
+<p begin="00:15:15.019" end="00:15:17.959" style="s2">fairly standard<span style="s4"> there</span> the heated seat</p>
+<p begin="00:15:16.519" end="00:15:20.660" style="s2">buttons<span style="s3"> for the rear seats that&#39;s pretty</span></p>
+<p begin="00:15:17.959" end="00:15:23.660" style="s2">cool but most luxury cars have that the</p>
+<p begin="00:15:20.660" end="00:15:25.669" style="s2">weirdest button back here by far is on</p>
+<p begin="00:15:23.660" end="00:15:27.379" style="s2">the left that it says rear lock and</p>
+<p begin="00:15:25.669" end="00:15:29.540" style="s2">that&#39;s the<span style="s4"> button</span> you push to lock the</p>
+<p begin="00:15:27.379" end="00:15:31.970" style="s2">rear<span style="s3"> climate</span> control except you&#39;re</p>
+<p begin="00:15:29.540" end="00:15:33.949" style="s2">sitting in the<span style="s4"> back seat</span></p>
+<p begin="00:15:31.970" end="00:15:35.449" style="s2">that button<span style="s3"> should</span> be<span style="s4"> in</span> the front<span style="s3"> and</span></p>
+<p begin="00:15:33.949" end="00:15:37.490" style="s2">in fact the front seat passengers can</p>
+<p begin="00:15:35.449" end="00:15:39.290" style="s2">lock the rear<span style="s4"> climate</span> control but why do</p>
+<p begin="00:15:37.490" end="00:15:40.759" style="s2">the rear seat passengers have the</p>
+<p begin="00:15:39.290" end="00:15:42.019" style="s2">ability to<span style="s3"> lock</span> their own<span style="s3"> climate</span></p>
+<p begin="00:15:40.759" end="00:15:44.360" style="s2">control<span style="s4"> especially</span> because<span style="s3"> if</span> they want</p>
+<p begin="00:15:42.019" end="00:15:47.990" style="s2"><span style="s3">to</span> unlock it<span style="s3"> all</span> they have<span style="s3"> to</span> do is<span style="s3"> just</span></p>
+<p begin="00:15:44.360" end="00:15:49.819" style="s2">press<span style="s3"> the</span> rear lock button again<span style="s4"> I</span> have</p>
+<p begin="00:15:47.990" end="00:15:52.970" style="s2">no idea<span style="s4"> why</span> there&#39;s a rear climate lock</p>
+<p begin="00:15:49.819" end="00:15:54.800" style="s2">button in the rear seats<span style="s3"> accessible</span> to</p>
+<p begin="00:15:52.970" end="00:15:57.980" style="s2">the rear passengers never seen this</p>
+<p begin="00:15:54.800" end="00:16:00.319" style="s2">before<span style="s4"> it</span> makes no sense<span style="s4"> now</span> next<span style="s3"> to</span> the</p>
+<p begin="00:15:57.980" end="00:16:02.899" style="s2"><span style="s3">rear</span> lock button that<span style="s3"> would</span> be the power</p>
+<p begin="00:16:00.319" end="00:16:05.689" style="s2">rear sunshade button you push it<span style="s3"> and</span></p>
+<p begin="00:16:02.899" end="00:16:08.329" style="s2"><span style="s3">then the rear sunshade</span><span style="s4"> whirs</span> into place</p>
+<p begin="00:16:05.689" end="00:16:10.069" style="s2"><span style="s4">just</span><span style="s3"> like</span> in so many luxury cars that&#39;s</p>
+<p begin="00:16:08.329" end="00:16:11.839" style="s2">not all that<span style="s3"> uncommon</span> anymore also not</p>
+<p begin="00:16:10.069" end="00:16:14.899" style="s2">uncommon is the fact that this car has</p>
+<p begin="00:16:11.839" end="00:16:17.240" style="s2">sun shades on the<span style="s3"> doors</span><span style="s4"> very cool</span><span style="s3"> but</span> in</p>
+<p begin="00:16:14.899" end="00:16:19.730" style="s2">this car they aren&#39;t power operated<span style="s3"> like</span></p>
+<p begin="00:16:17.240" end="00:16:22.449" style="s2">they are in Mercedes BMWs<span style="s3"> instead</span> you</p>
+<p begin="00:16:19.730" end="00:16:25.189" style="s2"><span style="s3">have</span> to<span style="s3"> manually</span> put them in place<span style="s4"> Oh</span></p>
+<p begin="00:16:22.449" end="00:16:27.230" style="s2"><span style="s4">can&#39;t even believe it almost</span><span style="s3"> this is</span></p>
+<p begin="00:16:25.189" end="00:16:30.019" style="s2">supposed to<span style="s3"> be</span> a luxury car what<span style="s3"> the</span></p>
+<p begin="00:16:27.230" end="00:16:31.519" style="s2">k900<span style="s3"> redeems its luxury car status with</span></p>
+<p begin="00:16:30.019" end="00:16:33.589" style="s2">a couple<span style="s3"> little</span> buttons<span style="s3"> on</span> the right</p>
+<p begin="00:16:31.519" end="00:16:36.079" style="s2"><span style="s4">side</span> of the rear center controls those</p>
+<p begin="00:16:33.589" end="00:16:37.879" style="s2"><span style="s3">be the buttons to control the</span> front seat</p>
+<p begin="00:16:36.079" end="00:16:40.250" style="s2">if you&#39;re sitting<span style="s3"> back</span> here<span style="s4"> on</span> the</p>
+<p begin="00:16:37.879" end="00:16:42.529" style="s2">passenger<span style="s3"> side</span><span style="s4"> you</span> can move the front</p>
+<p begin="00:16:40.250" end="00:16:45.199" style="s2"><span style="s3">passenger seat forward to</span> give yourself</p>
+<p begin="00:16:42.529" end="00:16:47.389" style="s2">extra legroom<span style="s4"> that&#39;s</span> for all the<span style="s3"> people</span></p>
+<p begin="00:16:45.199" end="00:16:50.240" style="s2">who<span style="s4"> are being chauffeured around in</span></p>
+<p begin="00:16:47.389" end="00:16:51.860" style="s2"><span style="s3">their</span> k900<span style="s4"> the</span> other interesting button</p>
+<p begin="00:16:50.240" end="00:16:53.480" style="s2"><span style="s4">in these rear seat controls</span><span style="s3"> that would</span></p>
+<p begin="00:16:51.860" end="00:16:56.870" style="s2">be the one in<span style="s4"> the</span> middle<span style="s3"> it</span> is marked</p>
+<p begin="00:16:53.480" end="00:16:59.480" style="s2"><span style="s3">k900 now this isn&#39;t actually</span> a<span style="s3"> button</span> if</p>
+<p begin="00:16:56.870" end="00:17:00.889" style="s2">you<span style="s4"> press</span> it it does nothing<span style="s3"> but</span> you can</p>
+<p begin="00:16:59.480" end="00:17:03.139" style="s2"><span style="s4">sit</span> there<span style="s3"> and look at</span><span style="s4"> it</span><span style="s3"> and</span> you<span style="s3"> can</span></p>
+<p begin="00:17:00.889" end="00:17:06.220" style="s2">push it<span style="s4"> if</span> you want just<span style="s3"> to</span> remind</p>
+<p begin="00:17:03.139" end="00:17:09.319" style="s2">yourself<span style="s4"> that</span> you are<span style="s3"> swathed</span> in Kia&#39;s</p>
+<p begin="00:17:06.220" end="00:17:10.880" style="s2">finest luxury<span style="s3"> automobile</span> now another</p>
+<p begin="00:17:09.319" end="00:17:12.500" style="s2">interesting<span style="s3"> thing</span> back here a very</p>
+<p begin="00:17:10.880" end="00:17:14.419" style="s2">strange feature I&#39;ve never seen in<span style="s3"> any</span></p>
+<p begin="00:17:12.500" end="00:17:15.770" style="s2">other car that<span style="s4"> would be the door locks</span></p>
+<p begin="00:17:14.419" end="00:17:17.870" style="s2">and if you want to<span style="s4"> unlock</span> the doors you</p>
+<p begin="00:17:15.770" end="00:17:19.459" style="s2">can just reach up<span style="s4"> you</span> can pull the lock</p>
+<p begin="00:17:17.870" end="00:17:21.530" style="s2">and<span style="s3"> that unlocks it you want to lock it</span></p>
+<p begin="00:17:19.459" end="00:17:23.000" style="s2"><span style="s4">you</span> reach up<span style="s3"> you</span> push the<span style="s3"> lock</span> and<span style="s3"> then</span></p>
+<p begin="00:17:21.530" end="00:17:24.799" style="s2">the door<span style="s4"> is</span> locked it seems simple</p>
+<p begin="00:17:23.000" end="00:17:27.319" style="s2"><span style="s4">enough but if you go down</span><span style="s3"> to</span> the door</p>
+<p begin="00:17:24.799" end="00:17:29.179" style="s2">panel<span style="s3"> about</span><span style="s4"> four</span><span style="s3"> inches</span> down from<span style="s3"> there</span></p>
+<p begin="00:17:27.319" end="00:17:31.130" style="s2"><span style="s3">you</span> will<span style="s3"> see</span><span style="s4"> a</span> little lock and unlock</p>
+<p begin="00:17:29.179" end="00:17:32.900" style="s2">button now in a lot of<span style="s3"> luxury</span><span style="s4"> cars</span> that</p>
+<p begin="00:17:31.130" end="00:17:34.400" style="s2"><span style="s3">button</span> lets<span style="s3"> you</span> lock and unlock all the</p>
+<p begin="00:17:32.900" end="00:17:36.350" style="s2">doors<span style="s3"> because if you&#39;re the chauffeur</span></p>
+<p begin="00:17:34.400" end="00:17:38.150" style="s2">driven<span style="s3"> passenger</span> you should have<span style="s3"> control</span></p>
+<p begin="00:17:36.350" end="00:17:41.059" style="s2">over<span style="s3"> whether</span> the doors are locked<span style="s3"> and</span></p>
+<p begin="00:17:38.150" end="00:17:43.670" style="s2">unlocked<span style="s3"> but in the k900 that</span> button</p>
+<p begin="00:17:41.059" end="00:17:45.560" style="s2">only<span style="s3"> controls</span> your door</p>
+<p begin="00:17:43.670" end="00:17:49.070" style="s2">so you can lock<span style="s4"> and</span><span style="s3"> unlock</span> the<span style="s4"> door</span></p>
+<p begin="00:17:45.560" end="00:17:50.960" style="s2"><span style="s3">manually</span> or<span style="s4"> 4</span> inches down<span style="s4"> from</span> there<span style="s3"> you</span></p>
+<p begin="00:17:49.070" end="00:17:53.570" style="s2"><span style="s4">can</span> lock and<span style="s4"> unlock</span> the<span style="s3"> door</span> by pushing</p>
+<p begin="00:17:50.960" end="00:17:56.240" style="s2">a button<span style="s4"> and that button has no effect</span></p>
+<p begin="00:17:53.570" end="00:17:58.430" style="s2">on the other doors<span style="s3"> in</span> the k900</p>
+<p begin="00:17:56.240" end="00:17:59.960" style="s2"><span style="s3">so</span> you have<span style="s3"> two</span> different<span style="s4"> options</span><span style="s3"> for</span></p>
+<p begin="00:17:58.430" end="00:18:02.810" style="s2">locking<span style="s3"> and</span> unlocking your door in the</p>
+<p begin="00:17:59.960" end="00:18:04.460" style="s2">k900 both within<span style="s4"> six</span> inches of<span style="s4"> each</span></p>
+<p begin="00:18:02.810" end="00:18:07.010" style="s2">other<span style="s4"> so</span> those are the<span style="s4"> courts</span><span style="s3"> and</span></p>
+<p begin="00:18:04.460" end="00:18:08.990" style="s2">features of<span style="s4"> the</span> k900 and now it&#39;s time</p>
+<p begin="00:18:07.010" end="00:18:10.670" style="s2">to get behind<span style="s3"> the wheel</span><span style="s4"> for</span><span style="s3"> more</span> of<span style="s3"> my</span></p>
+<p begin="00:18:08.990" end="00:18:12.770" style="s2">thoughts<span style="s3"> on the k900 click the link</span></p>
+<p begin="00:18:10.670" end="00:18:16.040" style="s2">below<span style="s3"> to</span><span style="s4"> visit</span> autotrader.com<span style="s4"> slash</span></p>
+<p begin="00:18:12.770" end="00:18:17.390" style="s2">oversteer why I&#39;m<span style="s3"> driving</span> the k900 I&#39;ve</p>
+<p begin="00:18:16.040" end="00:18:18.860" style="s2">been driving this<span style="s3"> car</span><span style="s4"> around</span> Dallas<span style="s3"> for</span></p>
+<p begin="00:18:17.390" end="00:18:21.230" style="s2">a couple days<span style="s4"> I</span> have a pretty<span style="s3"> good</span> idea</p>
+<p begin="00:18:18.860" end="00:18:23.810" style="s2"><span style="s3">of</span> what&#39;s<span style="s3"> going</span> on with it</p>
+<p begin="00:18:21.230" end="00:18:26.660" style="s2">now one<span style="s4"> thing</span> I have to<span style="s3"> admit about this</span></p>
+<p begin="00:18:23.810" end="00:18:28.700" style="s2">car<span style="s4"> I&#39;m</span> a little bit<span style="s3"> disappointed</span><span style="s4"> with</span></p>
+<p begin="00:18:26.660" end="00:18:30.410" style="s2">the level of equipment<span style="s3"> which</span> is</p>
+<p begin="00:18:28.700" end="00:18:33.950" style="s2">surprising because<span style="s3"> this</span><span style="s4"> cars</span> whole play</p>
+<p begin="00:18:30.410" end="00:18:35.900" style="s2">is<span style="s3"> its</span> value<span style="s4"> its</span> it gives you so<span style="s3"> much</span></p>
+<p begin="00:18:33.950" end="00:18:37.610" style="s2">for so little compared to the rivals<span style="s3"> but</span></p>
+<p begin="00:18:35.900" end="00:18:39.050" style="s2">here&#39;s the thing<span style="s4"> there&#39;s</span> no heads-up</p>
+<p begin="00:18:37.610" end="00:18:40.460" style="s2">display you already saw that thing with</p>
+<p begin="00:18:39.050" end="00:18:42.500" style="s2"><span style="s3">the</span> weird<span style="s3"> headrest on the door there&#39;s</span></p>
+<p begin="00:18:40.460" end="00:18:43.430" style="s2">no<span style="s4"> touchscreen</span> there&#39;s no bi-xenon</p>
+<p begin="00:18:42.500" end="00:18:45.320" style="s2">headlights</p>
+<p begin="00:18:43.430" end="00:18:50.150" style="s2">there&#39;s<span style="s3"> just</span> single<span style="s4"> Zeeland</span> there&#39;s no</p>
+<p begin="00:18:45.320" end="00:18:51.560" style="s2">auto steer<span style="s4"> this</span><span style="s3"> car actually has it</span></p>
+<p begin="00:18:50.150" end="00:18:53.120" style="s2">doesn&#39;t<span style="s3"> quite</span> have<span style="s4"> the</span><span style="s3"> level</span> of</p>
+<p begin="00:18:51.560" end="00:18:54.620" style="s2"><span style="s4">equipment that I want the seats in back</span></p>
+<p begin="00:18:53.120" end="00:18:56.630" style="s2">aren&#39;t ventilated I mean I<span style="s3"> can</span> kind<span style="s4"> of</span></p>
+<p begin="00:18:54.620" end="00:18:59.780" style="s2">go through<span style="s3"> it</span> there&#39;s no<span style="s4"> 360</span> degree</p>
+<p begin="00:18:56.630" end="00:19:01.370" style="s2">camera<span style="s3"> in</span> fact<span style="s3"> which</span> every luxury<span style="s3"> car</span></p>
+<p begin="00:18:59.780" end="00:19:03.260" style="s2">has now especially<span style="s3"> one that</span><span style="s4"> costs</span><span style="s3"> 60</span></p>
+<p begin="00:19:01.370" end="00:19:05.330" style="s2">grand<span style="s4"> I</span> was kind of<span style="s4"> thinking</span> this would</p>
+<p begin="00:19:03.260" end="00:19:06.890" style="s2">be<span style="s4"> like</span> an<span style="s3"> s-class in terms of equipment</span></p>
+<p begin="00:19:05.330" end="00:19:08.390" style="s2"><span style="s3">but</span> it would just<span style="s4"> sort</span> of be<span style="s4"> you</span> know</p>
+<p begin="00:19:06.890" end="00:19:09.620" style="s2">it&#39;s cheaper<span style="s4"> because</span> it&#39;s a Kia<span style="s3"> and</span></p>
+<p begin="00:19:08.390" end="00:19:12.590" style="s2">people aren&#39;t<span style="s3"> paying</span> the money for the</p>
+<p begin="00:19:09.620" end="00:19:15.020" style="s2">brand name<span style="s4"> but</span> this car isn&#39;t even<span style="s3"> on</span></p>
+<p begin="00:19:12.590" end="00:19:17.480" style="s2">s-class level in terms<span style="s3"> of</span><span style="s4"> equipment</span><span style="s3"> and</span></p>
+<p begin="00:19:15.020" end="00:19:20.210" style="s2">it costs<span style="s3"> like</span> an<span style="s3"> eClass and it&#39;s</span></p>
+<p begin="00:19:17.480" end="00:19:22.670" style="s2">actually equipped like one<span style="s4"> too</span> so why</p>
+<p begin="00:19:20.210" end="00:19:25.970" style="s2">would anyone buy this<span style="s3"> over</span><span style="s4"> an</span><span style="s3"> eClass</span></p>
+<p begin="00:19:22.670" end="00:19:27.470" style="s2"><span style="s3">when</span> the price point is the same and the</p>
+<p begin="00:19:25.970" end="00:19:30.080" style="s2">equipment is<span style="s4"> the</span> same and the difference</p>
+<p begin="00:19:27.470" end="00:19:31.880" style="s2">is this one<span style="s3"> has the Kia brand</span> name<span style="s3"> I</span></p>
+<p begin="00:19:30.080" end="00:19:33.050" style="s2">mean<span style="s3"> you</span> wouldn&#39;t it be ridiculous<span style="s4"> so</span></p>
+<p begin="00:19:31.880" end="00:19:34.970" style="s2">that&#39;s<span style="s4"> actually</span> been kind of a</p>
+<p begin="00:19:33.050" end="00:19:36.110" style="s2">surprising disappointment<span style="s4"> at</span> this car I</p>
+<p begin="00:19:34.970" end="00:19:38.480" style="s2">thought<span style="s3"> I&#39;d</span> be<span style="s3"> sitting</span> in<span style="s4"> here</span> and</p>
+<p begin="00:19:36.110" end="00:19:40.370" style="s2"><span style="s3">thinking</span> oh my god this<span style="s4"> thing</span> is<span style="s3"> like</span> an</p>
+<p begin="00:19:38.480" end="00:19:41.600" style="s2">s-class but<span style="s4"> it&#39;s</span><span style="s3"> just</span> as a<span style="s3"> Kia</span> badge and</p>
+<p begin="00:19:40.370" end="00:19:43.490" style="s2"><span style="s3">if</span> you&#39;re willing to<span style="s4"> spend</span> half the</p>
+<p begin="00:19:41.600" end="00:19:46.280" style="s2">money you know<span style="s3"> and</span><span style="s4"> and</span> put away the</p>
+<p begin="00:19:43.490" end="00:19:48.170" style="s2">badge<span style="s3"> notoriety</span> it won&#39;t matter<span style="s4"> it&#39;s</span> not</p>
+<p begin="00:19:46.280" end="00:19:49.850" style="s2"><span style="s3">quite like that now</span> with that said it</p>
+<p begin="00:19:48.170" end="00:19:51.200" style="s2">does have<span style="s4"> a</span> lot of<span style="s3"> equipment</span><span style="s4"> I</span> mean</p>
+<p begin="00:19:49.850" end="00:19:53.170" style="s2">there&#39;s a lot of luxury<span style="s3"> stuff</span> in here</p>
+<p begin="00:19:51.200" end="00:19:56.520" style="s2">moving the front seat</p>
+<p begin="00:19:53.170" end="00:19:59.890" style="s2">and all that<span style="s3"> that&#39;s pretty impressive</span></p>
+<p begin="00:19:56.520" end="00:20:00.940" style="s2"><span style="s4">but</span> it it doesn&#39;t<span style="s3"> go</span><span style="s4"> above</span> and beyond I</p>
+<p begin="00:19:59.890" end="00:20:03.760" style="s2">think<span style="s4"> it</span><span style="s3"> sort of meets the</span><span style="s4"> expectations</span></p>
+<p begin="00:20:00.940" end="00:20:06.610" style="s2"><span style="s4">now</span> with that<span style="s3"> said</span> it&#39;s it&#39;s<span style="s3"> interesting</span></p>
+<p begin="00:20:03.760" end="00:20:08.320" style="s2"><span style="s3">I</span> was expecting a little bit more</p>
+<p begin="00:20:06.610" end="00:20:10.030" style="s2">features equipment whatever<span style="s4"> I</span> was</p>
+<p begin="00:20:08.320" end="00:20:10.270" style="s2">expecting<span style="s4"> the</span> drive<span style="s3"> to</span> be worse<span style="s3"> than</span><span style="s4"> it</span></p>
+<p begin="00:20:10.030" end="00:20:13.950" style="s2">is</p>
+<p begin="00:20:10.270" end="00:20:17.470" style="s2">I actually love how this car drives<span style="s3"> it&#39;s</span></p>
+<p begin="00:20:13.950" end="00:20:19.510" style="s2">tremendously smooth<span style="s3"> really</span><span style="s4"> just</span> really</p>
+<p begin="00:20:17.470" end="00:20:21.400" style="s2">really smooth<span style="s3"> the</span> engine has a ton of</p>
+<p begin="00:20:19.510" end="00:20:23.620" style="s2">power<span style="s4"> and</span> here&#39;s something<span style="s4"> that</span> really</p>
+<p begin="00:20:21.400" end="00:20:26.020" style="s2">surprised me<span style="s3"> much</span> more<span style="s3"> than</span><span style="s4"> I thought</span></p>
+<p begin="00:20:23.620" end="00:20:27.309" style="s2"><span style="s4">this</span><span style="s3"> car</span> is very stable<span style="s4"> I</span> came into</p>
+<p begin="00:20:26.020" end="00:20:28.960" style="s2"><span style="s4">Dallas</span> the other night and it was</p>
+<p begin="00:20:27.309" end="00:20:31.660" style="s2">storming<span style="s3"> and</span> was just<span style="s3"> pouring in</span></p>
+<p begin="00:20:28.960" end="00:20:33.309" style="s2"><span style="s4">thunderstorms</span> the guy who<span style="s3"> I rented this</span></p>
+<p begin="00:20:31.660" end="00:20:34.780" style="s2">car<span style="s3"> from</span> he told<span style="s4"> me</span> was the<span style="s3"> worst</span><span style="s4"> lungs</span></p>
+<p begin="00:20:33.309" end="00:20:36.520" style="s2">he&#39;s ever seen in<span style="s3"> Dallas</span> my flight was</p>
+<p begin="00:20:34.780" end="00:20:39.040" style="s2"><span style="s3">four</span> hours delayed<span style="s3"> I</span> was driving it</p>
+<p begin="00:20:36.520" end="00:20:40.840" style="s2"><span style="s3">after</span> I picked it up and it<span style="s4"> just</span> felt</p>
+<p begin="00:20:39.040" end="00:20:43.330" style="s2">rock solid and stable on<span style="s4"> the</span> highway</p>
+<p begin="00:20:40.840" end="00:20:45.280" style="s2">almost on<span style="s4"> the</span> level of<span style="s3"> an eClass or an</span></p>
+<p begin="00:20:43.330" end="00:20:46.720" style="s2">s-class<span style="s4"> and</span> I was<span style="s3"> really</span> surprised about</p>
+<p begin="00:20:45.280" end="00:20:48.250" style="s2">that<span style="s4"> I</span> was going speeds I probably</p>
+<p begin="00:20:46.720" end="00:20:51.490" style="s2">should have been going<span style="s3"> given</span> the weather</p>
+<p begin="00:20:48.250" end="00:20:52.840" style="s2"><span style="s4">and</span> the car was like planted and it felt</p>
+<p begin="00:20:51.490" end="00:20:54.910" style="s2"><span style="s3">like</span> I could have just kept going and</p>
+<p begin="00:20:52.840" end="00:20:56.440" style="s2"><span style="s3">going even</span><span style="s4"> higher</span><span style="s3"> speeds that&#39;s not</span></p>
+<p begin="00:20:54.910" end="00:20:58.390" style="s2">something I&#39;m usually used to<span style="s3"> from</span> an</p>
+<p begin="00:20:56.440" end="00:20:59.679" style="s2">Asian car typically<span style="s3"> it&#39;s</span> the<span style="s3"> German cars</span></p>
+<p begin="00:20:58.390" end="00:21:00.970" style="s2">because<span style="s3"> they&#39;re</span> built for<span style="s3"> the Autobahn</span></p>
+<p begin="00:20:59.679" end="00:21:03.460" style="s2">that have that sort of<span style="s3"> high speed</span></p>
+<p begin="00:21:00.970" end="00:21:06.100" style="s2">capability but this thing<span style="s3"> just</span> felt</p>
+<p begin="00:21:03.460" end="00:21:08.679" style="s2"><span style="s4">rock-solid at</span><span style="s3"> higher</span> speeds even<span style="s3"> in</span> bad</p>
+<p begin="00:21:06.100" end="00:21:10.600" style="s2">weather which was<span style="s4"> impressive</span> to<span style="s3"> me</span> and I</p>
+<p begin="00:21:08.679" end="00:21:13.059" style="s2">love how the v8 feels</p>
+<p begin="00:21:10.600" end="00:21:14.200" style="s2"><span style="s4">I</span> mean<span style="s3"> I&#39;m</span> into turbo cars the whole</p>
+<p begin="00:21:13.059" end="00:21:15.850" style="s2">thing<span style="s3"> but</span> I<span style="s4"> think</span> the thing I&#39;m gonna</p>
+<p begin="00:21:14.200" end="00:21:17.140" style="s2"><span style="s3">miss</span> the<span style="s3"> most</span> everybody talks about<span style="s3"> I</span></p>
+<p begin="00:21:15.850" end="00:21:18.940" style="s2"><span style="s4">don&#39;t</span><span style="s3"> want</span> all<span style="s3"> this</span> tech I don&#39;t want</p>
+<p begin="00:21:17.140" end="00:21:20.200" style="s2">all these<span style="s4"> features that drive</span><span style="s3"> for</span> me I&#39;m</p>
+<p begin="00:21:18.940" end="00:21:22.330" style="s2">ready<span style="s3"> for</span> all<span style="s3"> that what I&#39;m not ready</span></p>
+<p begin="00:21:20.200" end="00:21:23.919" style="s2"><span style="s3">for</span><span style="s4"> has given up v8</span> this car is great</p>
+<p begin="00:21:22.330" end="00:21:26.919" style="s2">proof of why you<span style="s3"> don&#39;t</span> want<span style="s3"> to</span> give up a</p>
+<p begin="00:21:23.919" end="00:21:29.470" style="s2">v8 the v8 is smooth<span style="s4"> it&#39;s</span><span style="s3"> powerful it&#39;s</span></p>
+<p begin="00:21:26.919" end="00:21:31.000" style="s2">got torque<span style="s3"> it&#39;s</span> not loud<span style="s4"> it</span> just<span style="s4"> feels</span></p>
+<p begin="00:21:29.470" end="00:21:32.830" style="s2">so good<span style="s4"> the only</span><span style="s3"> thing</span> you can&#39;t do is</p>
+<p begin="00:21:31.000" end="00:21:34.600" style="s2">get<span style="s3"> thirty miles</span><span style="s4"> per</span> gallon it&#39;s just a</p>
+<p begin="00:21:32.830" end="00:21:36.400" style="s2"><span style="s3">very comfortable ride not</span> much noise</p>
+<p begin="00:21:34.600" end="00:21:39.010" style="s2">gets into the cabin<span style="s3"> they&#39;ve</span> done a</p>
+<p begin="00:21:36.400" end="00:21:41.320" style="s2"><span style="s4">really</span> great<span style="s3"> job with</span><span style="s4"> that with making</span></p>
+<p begin="00:21:39.010" end="00:21:43.090" style="s2">this car feel like the luxury car that</p>
+<p begin="00:21:41.320" end="00:21:44.679" style="s2">it is and<span style="s3"> even</span> feel like sort of the</p>
+<p begin="00:21:43.090" end="00:21:47.049" style="s2">German luxury<span style="s3"> car</span> that it is at higher</p>
+<p begin="00:21:44.679" end="00:21:48.970" style="s2">speeds on the highway<span style="s3"> which</span> surprised me</p>
+<p begin="00:21:47.049" end="00:21:51.320" style="s2">a lot</p>
+<p begin="00:21:48.970" end="00:21:52.520" style="s2">but I<span style="s3"> just</span><span style="s4"> wished</span> that<span style="s3"> there</span> were maybe</p>
+<p begin="00:21:51.320" end="00:21:55.610" style="s2">a few more<span style="s3"> features I mean how do you</span></p>
+<p begin="00:21:52.520" end="00:21:57.830" style="s2"><span style="s4">not</span><span style="s3"> have</span> a 360 camera come<span style="s3"> on you&#39;re</span></p>
+<p begin="00:21:55.610" end="00:22:00.919" style="s2">telling<span style="s4"> people</span> the old features<span style="s4"> is</span> what</p>
+<p begin="00:21:57.830" end="00:22:03.140" style="s2">we got we got value well<span style="s4"> show</span> me<span style="s4"> I</span> mean</p>
+<p begin="00:22:00.919" end="00:22:07.520" style="s2"><span style="s3">where where some of the</span> stuff<span style="s4"> and</span> so</p>
+<p begin="00:22:03.140" end="00:22:11.690" style="s2">that&#39;s the Kia k900 the<span style="s4"> kia</span> luxury sedan</p>
+<p begin="00:22:07.520" end="00:22:14.179" style="s2"><span style="s3">this</span> thing is a complete<span style="s3"> failure</span><span style="s4"> kia</span> has</p>
+<p begin="00:22:11.690" end="00:22:16.370" style="s2"><span style="s3">staked its entire existence</span> on selling</p>
+<p begin="00:22:14.179" end="00:22:19.460" style="s2">cheap cars to<span style="s3"> millennials</span> cars whose</p>
+<p begin="00:22:16.370" end="00:22:22.429" style="s2">price tags end in 995<span style="s3"> so</span> they<span style="s3"> seemed</span></p>
+<p begin="00:22:19.460" end="00:22:25.309" style="s2">cheaper than they actually are<span style="s4"> and they</span></p>
+<p begin="00:22:22.429" end="00:22:27.679" style="s2"><span style="s3">want</span><span style="s4"> to</span> try<span style="s3"> to</span> make a luxury sedan<span style="s4"> gia</span></p>
+<p begin="00:22:25.309" end="00:22:29.390" style="s2"><span style="s3">has</span> no business<span style="s3"> making a vehicle in this</span></p>
+<p begin="00:22:27.679" end="00:22:31.370" style="s2"><span style="s4">segment</span><span style="s3"> and I can&#39;t believe</span><span style="s4"> they</span> sell</p>
+<p begin="00:22:29.390" end="00:22:32.660" style="s2">this here then again<span style="s4"> I</span> probably would</p>
+<p begin="00:22:31.370" end="00:22:34.940" style="s2">have<span style="s3"> said</span> the<span style="s3"> same</span> thing about Toyota</p>
+<p begin="00:22:32.660" end="00:22:37.010" style="s2"><span style="s3">before</span> they came<span style="s3"> out</span> with<span style="s3"> Lexus and I</span></p>
+<p begin="00:22:34.940" end="00:22:39.650" style="s2">have to<span style="s3"> admit</span> it&#39;s an even better value</p>
+<p begin="00:22:37.010" end="00:22:41.990" style="s2"><span style="s3">if</span> you buy one<span style="s3"> used</span> of course<span style="s4"> that&#39;s</span></p>
+<p begin="00:22:39.650" end="00:22:45.440" style="s2"><span style="s4">assuming</span> that<span style="s3"> you</span> can find one<span style="s4"> of</span> the<span style="s4"> 12</span></p>
+<p begin="00:22:41.990" end="00:22:47.630" style="s2">they<span style="s3"> sold</span> in your local<span style="s3"> area</span><span style="s4"> anyway</span> now</p>
+<p begin="00:22:45.440" end="00:22:49.220" style="s2">it&#39;s time for the<span style="s4"> dugs</span> score<span style="s4"> starting</span></p>
+<p begin="00:22:47.630" end="00:22:51.740" style="s2"><span style="s3">with</span> the<span style="s3"> weekend</span> categories and styling</p>
+<p begin="00:22:49.220" end="00:22:53.380" style="s2">the<span style="s3"> k900 is fine only fine not great and</span></p>
+<p begin="00:22:51.740" end="00:22:56.510" style="s2"><span style="s3">not</span> bad and it gets a 5 out of 10</p>
+<p begin="00:22:53.380" end="00:22:57.919" style="s2"><span style="s3">acceleration</span> does 0 to<span style="s3"> 60</span><span style="s4"> in</span> 5.5 seconds</p>
+<p begin="00:22:56.510" end="00:22:59.929" style="s2">which gives it a 5 out<span style="s4"> of</span> 10</p>
+<p begin="00:22:57.919" end="00:23:01.940" style="s2">handling is acceptable certainly not</p>
+<p begin="00:22:59.929" end="00:23:03.770" style="s2">unstable<span style="s3"> but</span> steering is<span style="s4"> lightened</span> snow</p>
+<p begin="00:23:01.940" end="00:23:05.870" style="s2">sports car and<span style="s3"> it</span> gets a 4 out of<span style="s3"> 10</span></p>
+<p begin="00:23:03.770" end="00:23:07.250" style="s2"><span style="s4">cool</span> factor isn&#39;t<span style="s3"> very</span> high but even</p>
+<p begin="00:23:05.870" end="00:23:09.169" style="s2">though it doesn&#39;t<span style="s3"> have</span><span style="s4"> a</span><span style="s3"> Mercedes badge</span></p>
+<p begin="00:23:07.250" end="00:23:12.290" style="s2"><span style="s3">it&#39;s</span> still an expensive somewhat cool</p>
+<p begin="00:23:09.169" end="00:23:13.970" style="s2">car<span style="s4"> and</span> it gets a 4 out of<span style="s3"> 10 importance</span></p>
+<p begin="00:23:12.290" end="00:23:15.559" style="s2">is low this car is important only<span style="s3"> in</span></p>
+<p begin="00:23:13.970" end="00:23:17.450" style="s2"><span style="s4">this</span> sense that<span style="s3"> it</span> shows<span style="s3"> kia</span> wants to</p>
+<p begin="00:23:15.559" end="00:23:19.580" style="s2">make luxury cars but it hasn&#39;t<span style="s4"> exactly</span></p>
+<p begin="00:23:17.450" end="00:23:21.530" style="s2">made a splash<span style="s3"> and</span> it gets a 3 out of 10</p>
+<p begin="00:23:19.580" end="00:23:23.510" style="s2">bringing the total weekend score to 21</p>
+<p begin="00:23:21.530" end="00:23:24.950" style="s2">out of<span style="s3"> 50 next up for the daily</span></p>
+<p begin="00:23:23.510" end="00:23:26.780" style="s2">categories starting with features the</p>
+<p begin="00:23:24.950" end="00:23:28.610" style="s2"><span style="s4">k900</span><span style="s3"> is</span> reasonably<span style="s3"> well</span> equipped but</p>
+<p begin="00:23:26.780" end="00:23:30.919" style="s2"><span style="s3">it&#39;s</span> missing<span style="s4"> some</span> important<span style="s3"> stuff</span> and<span style="s3"> it</span></p>
+<p begin="00:23:28.610" end="00:23:32.570" style="s2">gets only a 6 out of<span style="s3"> 10</span> comfort is good</p>
+<p begin="00:23:30.919" end="00:23:33.980" style="s2">the<span style="s3"> ride</span> is nice<span style="s4"> and</span> the car is smooth</p>
+<p begin="00:23:32.570" end="00:23:35.809" style="s2">and<span style="s3"> it</span> gets a 7 out of 10</p>
+<p begin="00:23:33.980" end="00:23:37.669" style="s2"><span style="s3">quality</span> is good the interior is pretty</p>
+<p begin="00:23:35.809" end="00:23:38.990" style="s2"><span style="s3">nice</span><span style="s4"> and</span> I expect it to be<span style="s3"> reliable</span><span style="s4"> and</span></p>
+<p begin="00:23:37.669" end="00:23:42.080" style="s2">it gets a 7 out of 10</p>
+<p begin="00:23:38.990" end="00:23:43.880" style="s2">practicality<span style="s3"> is</span> only<span style="s4"> OK</span> the 16 cubic</p>
+<p begin="00:23:42.080" end="00:23:44.419" style="s2">feet<span style="s4"> of</span> cargo space gives it a 5<span style="s4"> out</span> of</p>
+<p begin="00:23:43.880" end="00:23:46.790" style="s2">10</p>
+<p begin="00:23:44.419" end="00:23:49.160" style="s2">finally there&#39;s value and I just don&#39;t</p>
+<p begin="00:23:46.790" end="00:23:51.440" style="s2"><span style="s3">see</span><span style="s4"> it</span><span style="s3"> it&#39;s</span> an<span style="s3"> OK</span> car for 60 grand<span style="s4"> but</span></p>
+<p begin="00:23:49.160" end="00:23:53.450" style="s2">not better and it gets only<span style="s3"> a</span> 5 out of</p>
+<p begin="00:23:51.440" end="00:23:55.790" style="s2"><span style="s3">10</span><span style="s4"> bringing</span> the<span style="s3"> total daily score to 30</span></p>
+<p begin="00:23:53.450" end="00:23:59.540" style="s2">out<span style="s4"> of</span> 50<span style="s4"> add</span> it<span style="s3"> all</span> up and the<span style="s4"> Doug</span></p>
+<p begin="00:23:55.790" end="00:24:01.309" style="s2">score is 51 out<span style="s3"> of</span> 100 and<span style="s3"> here&#39;s</span> how it</p>
+<p begin="00:23:59.540" end="00:24:01.980" style="s2">compares to<span style="s3"> some</span> other luxury sedans</p>
+<p begin="00:24:01.309" end="00:24:03.659" style="s2"><span style="s4">either</span><span style="s3"> of</span></p>
+<p begin="00:24:01.980" end="00:24:05.340" style="s2">of course it&#39;s<span style="s4"> nowhere near</span><span style="s3"> the</span> same</p>
+<p begin="00:24:03.659" end="00:24:07.769" style="s2">price<span style="s4"> point</span> as some of them but it is</p>
+<p begin="00:24:05.340" end="00:24:10.860" style="s2">close on price to others and regardless</p>
+<p begin="00:24:07.769" end="00:24:15.710" style="s2"><span style="s4">its</span> way behind<span style="s3"> the</span> pack<span style="s3"> the</span> k900 is a</p>
+<p begin="00:24:10.860" end="00:24:18.890" style="s2">car<span style="s3"> best</span> bought used for a huge<span style="s3"> discount</span></p>
+<p begin="00:24:15.710" end="00:24:18.890" style="s2">[Music]</p>
+</div>
+</body>
+</tt>
